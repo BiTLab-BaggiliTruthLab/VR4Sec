@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\strat\source\repos\cameraclient\cameraclient\client.cpp(14): warning C4101: 'mode': unreferenced local variable
+c:\users\strat\source\repos\cameraclient\cameraclient\client.cpp(48): warning C4101: 'c': unreferenced local variable
+sfml-network.lib(sfml-network-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
