@@ -1,0 +1,2 @@
+Location: \Steam\config
+Details: Contains Steam ID, account name, user name, account creation date

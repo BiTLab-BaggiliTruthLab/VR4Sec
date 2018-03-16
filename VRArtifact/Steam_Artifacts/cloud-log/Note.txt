@@ -1,0 +1,3 @@
+Location: \Steam\logs
+Details: Log of information uploaded to the Steam Cloud, includes application names.
+cloud_log.previous: these logs are previous instance of cloud logs.

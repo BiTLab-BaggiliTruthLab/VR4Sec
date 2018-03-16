@@ -1,0 +1,2 @@
+Location: \Steam\config\vrappconfig
+Details: Application launch times

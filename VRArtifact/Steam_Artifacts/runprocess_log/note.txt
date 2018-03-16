@@ -1,0 +1,2 @@
+location: \Steam\logs
+Details: List of applications run with ID's and start times.

@@ -1,0 +1,2 @@
+Location: \Steam\appcache\httpcache
+Details:The httpcache folder contained thousands of folders with details such as sites visited, HTTP responses and timestamps.

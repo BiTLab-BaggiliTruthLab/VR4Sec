@@ -1,0 +1,2 @@
+Location: \Steam\logs
+Details: Device info, audio, video, bluetooth, startup, shutdown.

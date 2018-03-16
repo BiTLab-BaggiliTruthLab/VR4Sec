@@ -1,0 +1,2 @@
+Location:\Steam\logs 
+Details: Contains information on every application downloaded, updated, or run through Steam.

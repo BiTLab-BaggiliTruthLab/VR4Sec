@@ -1,0 +1,2 @@
+Location: \Steam\config\
+Details: Manufacturer details, master serial number, model number, tracking co-ordinates.

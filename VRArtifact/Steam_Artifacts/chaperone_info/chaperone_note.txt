@@ -1,0 +1,2 @@
+Location: \Steam\config
+Details: Collision and play area bounds

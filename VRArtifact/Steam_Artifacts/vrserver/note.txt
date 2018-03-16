@@ -1,0 +1,2 @@
+Location: \Steam\logs
+Details: Contains vive infor and its accessories activities, including startup display, communication.

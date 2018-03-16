@@ -1,0 +1,3 @@
+Location: \Steam\appcache
+Details: The appinfo file contained the application id, application name, License type, application version and last updated information.
+It also contains accesstoken and can be modified to rename the games as per the user locally to steam.

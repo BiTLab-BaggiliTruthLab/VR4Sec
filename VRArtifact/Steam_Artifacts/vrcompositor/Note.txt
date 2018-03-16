@@ -1,0 +1,2 @@
+Location: \Steam\logs
+details: Contains Collision bounds, display information.

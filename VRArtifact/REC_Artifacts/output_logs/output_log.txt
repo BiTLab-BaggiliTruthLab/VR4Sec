@@ -1,0 +1,499 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8119 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Gif.Components.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Gif.Components.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\GETween.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\InputSimulator.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\InputSimulator.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\SonyNP.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\SonyNP.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\KDTree.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\KdTreeLib.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\KdTreeLib.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Poly2Tri.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Triangle.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Triangle.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.931 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.626032 ms
+Unity v2017.1.0p4, Oculus Utilities v1.15.0, OVRPlugin v1.14.1, SDK v1.20.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Build version: 20171130_EA
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.041919 ms
+
+Unloading 175 unused Assets to reduce memory usage. Loaded Objects now: 27535.
+Total: 19.679266 ms (FindLiveObjects: 0.972921 ms CreateObjectMapping: 1.972583 ms MarkObjects: 16.561592 ms  DeleteObjects: 0.170666 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 24b8 -> priority: 1 
+  Thread -> id: 3048 -> priority: 1 
+  Thread -> id: 2efc -> priority: 1 
+  Thread -> id: a24 -> priority: 1 
+Platform assembly: D:\Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform Info:
+    Platform: OCULUS
+    Hardware: OCULUS
+    Platform Profile Name: labvr53
+    Platform Tracking Mode: THREE_SIXTY_DEGREE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/KeyboardRoot/[Punchkeyboard_2.1](Clone)/Keys/StandardKeyboard/CharKeys/EmailHelpers/yahoo.com/yahoo_helper_Key"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/KeyboardRoot/[Punchkeyboard_2.1](Clone)/Keys/StandardKeyboard/CharKeys/EmailHelpers/live.com/live_helper_Key"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/KeyboardRoot/[Punchkeyboard_2.1](Clone)/Keys/StandardKeyboard/CharKeys/EmailHelpers/gmail.com/Gmail_helper_Key"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/KeyboardRoot/[Punchkeyboard_2.1](Clone)/Keys/StandardKeyboard/CharKeys/EmailHelpers/hotmail.com/Hotmail_helper_Key"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/KeyboardRoot/[Punchkeyboard_2.1](Clone)/Keys/StandardKeyboard/CharKeys/EmailHelpers/outlook.com/outlook_helper_Key"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/KeyboardRoot/[Punchkeyboard_2.1](Clone)/Keys/NumericKeyboard/ModifierKeys/Backspace/BackSpace_Special_Key"
+ 
+(Filename:  Line: 0)
+
+RecNet login failed: Email is already in use
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "[ProfileSelectionManager]/VisualRoot/[ProfileSelectionStackedUI](Clone)/Canvas/Screens/[RegistrationDialogScreen](Clone)/Body/RegistrationGroup/EmailGroup/Button3D/MovableSection/3DObjectContainer/ScaleContainer/ButtonMesh"
+ 
+(Filename:  Line: 0)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 303.188404 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 38773.
+Total: 20.419624 ms (FindLiveObjects: 1.763156 ms CreateObjectMapping: 1.840377 ms MarkObjects: 13.334246 ms  DeleteObjects: 3.480942 ms)
+
+Profile Info:
+    Profile ID: 298134
+    Profile DisplayName: SpeedyDove
+    Junior Profile: False
+    SID: 1513111986728
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't change CrcCheckEnabled while being connected. CrcCheckEnabled stays False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Quality setting : Fantastic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Junior flag is now inactive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'MemberProfilesFlow') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.124137 ms
+
+Unloading 424 unused Assets to reduce memory usage. Loaded Objects now: 35751.
+Total: 25.154426 ms (FindLiveObjects: 1.549222 ms CreateObjectMapping: 3.202707 ms MarkObjects: 16.559188 ms  DeleteObjects: 3.842407 ms)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Dorm Room" with playerCount 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InputField3D (AGUI.StackedUI.InputField3D)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO PLATFORM FRIENDS ON REC ROOM!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Looking for crash dumps in D:/Oculus Apps/Software/against-gravity-rec-room/Recroom_Oculus_Data
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found 0 crash dumps
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.311506 ms
+
+Unloading 2667 unused Assets to reduce memory usage. Loaded Objects now: 67242.
+Total: 60.586420 ms (FindLiveObjects: 3.468622 ms CreateObjectMapping: 4.555421 ms MarkObjects: 42.415211 ms  DeleteObjects: 10.145661 ms)
+
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.505016 ms
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 54408.
+Total: 41.717821 ms (FindLiveObjects: 2.260133 ms CreateObjectMapping: 4.194557 ms MarkObjects: 34.889045 ms  DeleteObjects: 0.372882 ms)
+
+*****0.00 - 198.19: Font texture rebuilds: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: connecting to region eu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Paddleball" with playerCount 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*****198.19 - 199.19: Font texture rebuilds: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*****199.19 - 214.61: Font texture rebuilds: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*****214.61 - 222.78: Font texture rebuilds: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 26.648362 ms
+
+Unloading 693 unused Assets to reduce memory usage. Loaded Objects now: 42600.
+Total: 46.121506 ms (FindLiveObjects: 2.081353 ms CreateObjectMapping: 4.139872 ms MarkObjects: 32.759315 ms  DeleteObjects: 7.139762 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.697617 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 56642.
+Total: 43.797372 ms (FindLiveObjects: 2.167588 ms CreateObjectMapping: 4.955347 ms MarkObjects: 36.514887 ms  DeleteObjects: 0.158948 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Rec Center" with playerCount 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to 'network-remove' GameObject. Client is neither owner nor masterClient taking over for owner who left: View (0)5500014 on PullTab 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ev Destroy Failed. Could not find PhotonView with instantiationId 5500013. Sent by actorNr: 55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to 'network-remove' GameObject. Client is neither owner nor masterClient taking over for owner who left: View (0)5800017 on PullTab 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ev Destroy Failed. Could not find PhotonView with instantiationId 5800016. Sent by actorNr: 58
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ev Destroy Failed. Could not find PhotonView with instantiationId 5900018. Sent by actorNr: 59
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 61.263980 ms
+
+Unloading 1154 unused Assets to reduce memory usage. Loaded Objects now: 43411.
+Total: 48.055329 ms (FindLiveObjects: 1.533597 ms CreateObjectMapping: 4.579459 ms MarkObjects: 35.556989 ms  DeleteObjects: 6.384381 ms)
+
+The referenced script on this Behaviour (Game Object 'MemberProfilesFlow') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.438011 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 52904.
+Total: 46.935478 ms (FindLiveObjects: 1.988508 ms CreateObjectMapping: 4.891647 ms MarkObjects: 39.861219 ms  DeleteObjects: 0.192901 ms)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Dorm Room" with playerCount 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.519262 ms
+
+Unloading 2793 unused Assets to reduce memory usage. Loaded Objects now: 69620.
+Total: 75.008969 ms (FindLiveObjects: 4.192454 ms CreateObjectMapping: 6.468212 ms MarkObjects: 52.305774 ms  DeleteObjects: 12.041325 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.851157 ms
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 57944.
+Total: 50.219913 ms (FindLiveObjects: 2.817805 ms CreateObjectMapping: 4.916286 ms MarkObjects: 42.250554 ms  DeleteObjects: 0.234065 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Rec Center" with playerCount 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160833.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160834.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160836.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160842.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160853.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160900.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating File @: C:\Users\UNHcFREG\Documents\Rec Room\Gifs\20171212_160901.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.970685 ms
+
+Unloading 1372 unused Assets to reduce memory usage. Loaded Objects now: 44638.
+Total: 59.358701 ms (FindLiveObjects: 1.860208 ms CreateObjectMapping: 4.672605 ms MarkObjects: 42.801616 ms  DeleteObjects: 10.022469 ms)
+
+The referenced script on this Behaviour (Game Object 'MemberProfilesFlow') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.868584 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 54157.
+Total: 54.577326 ms (FindLiveObjects: 2.081353 ms CreateObjectMapping: 4.274783 ms MarkObjects: 47.994334 ms  DeleteObjects: 0.225352 ms)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Dorm Room" with playerCount 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.828336 ms
+
+Unloading 2833 unused Assets to reduce memory usage. Loaded Objects now: 70853.
+Total: 86.228209 ms (FindLiveObjects: 3.842106 ms CreateObjectMapping: 6.599818 ms MarkObjects: 62.599267 ms  DeleteObjects: 13.185814 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.177167 ms
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 59171.
+Total: 55.361552 ms (FindLiveObjects: 3.034744 ms CreateObjectMapping: 4.489318 ms MarkObjects: 47.530108 ms  DeleteObjects: 0.306178 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Rec Center" with playerCount 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.978724 ms
+
+Unloading 1193 unused Assets to reduce memory usage. Loaded Objects now: 45791.
+Total: 68.748080 ms (FindLiveObjects: 2.092471 ms CreateObjectMapping: 4.297017 ms MarkObjects: 50.797416 ms  DeleteObjects: 11.559972 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.041655 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 45839.
+Total: 54.430997 ms (FindLiveObjects: 1.997522 ms CreateObjectMapping: 5.546972 ms MarkObjects: 46.683985 ms  DeleteObjects: 0.201014 ms)
+
+Prefilling object pool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prefill time (s): 0.0631939
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prefill time (s): 0.0631939
+*****0.00 - 1095.32: Font texture rebuilds: 120
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Theater Department" with playerCount 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*****1095.32 - 1096.33: Font texture rebuilds: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 46.634107 ms
+
+Unloading 1253 unused Assets to reduce memory usage. Loaded Objects now: 46416.
+Total: 67.312736 ms (FindLiveObjects: 2.491495 ms CreateObjectMapping: 4.589375 ms MarkObjects: 50.961172 ms  DeleteObjects: 9.269792 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.722856 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 60437.
+Total: 63.705897 ms (FindLiveObjects: 2.966237 ms CreateObjectMapping: 4.720079 ms MarkObjects: 55.766885 ms  DeleteObjects: 0.251192 ms)
+
+PUNVoice: connecting to region us
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player joined activity "Rec Center" with playerCount 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a spawn point matching previous activity name. Ignoring previous activity constrain.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+RecNet notification channel error: Request Aborted!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 18.729481 ms
+
+Unloading 1206 unused Assets to reduce memory usage. Loaded Objects now: 47204.
+Total: 81.567322 ms (FindLiveObjects: 1.954255 ms CreateObjectMapping: 4.328567 ms MarkObjects: 64.654180 ms  DeleteObjects: 10.629718 ms)
+

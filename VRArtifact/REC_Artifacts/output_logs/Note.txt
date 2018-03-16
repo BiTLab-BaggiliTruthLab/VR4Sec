@@ -1,0 +1,4 @@
+Location: Steam\steamapps\common\RecRoom\Recroom_Release_Data and Oculus Apps\Software\against-gravity-rec-room\Recroom_Oculus_Data.
+
+Details: The file contained the profile name, platform info, and hardware information. Profile information, specific to Rec Room was also found in output_log.txt. 
+Typical activities to the game were performed, namely, entering the Rec Room, joining activities, chatting, taking pictures and videos.

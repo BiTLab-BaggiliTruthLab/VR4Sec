@@ -1,0 +1,2 @@
+Location: \Steam\logs
+Details: Collision bounds, play area size.
