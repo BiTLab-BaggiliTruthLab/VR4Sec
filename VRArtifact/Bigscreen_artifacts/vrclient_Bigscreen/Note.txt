@@ -1,0 +1,6 @@
+Location:\Steam\logs and \Occulus\logs
+Details: Artifact files were found stored in multiple locations on the system. 
+The Steam generated Bigscreen activity logs vrclient_Bigscreen.txt were stored in the above mentioned directories.
+ The text file contained  configuration settings  for Bigscreen and logs the responses from the vrserver. 
+The file also contained the timestamps of application start time and end time, the System OS and version. 
+No indicators of user activity were found in the file vrclient_Bigscreen.txt

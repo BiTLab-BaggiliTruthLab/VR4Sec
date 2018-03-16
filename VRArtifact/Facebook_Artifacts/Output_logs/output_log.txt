@@ -1,0 +1,495 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8119 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\I18N.West.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\GETween.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Notify.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Notify.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\CSCore.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\CSCore.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\DashTools.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\DashTools.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\FacebookCore.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\FacebookCore.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\FacebookCoreUnity.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\FacebookCoreUnity.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\GraphQL.Subscriptions.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\GraphQL.Subscriptions.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\I18N.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\I18N.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\I18N.West.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\I18N.West.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\M2Mqtt.Net.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\M2Mqtt.Net.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\MediaPlayer.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\MediaPlayer.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Threading.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Threading.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\WindowsInput.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\WindowsInput.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\DiceClient.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\DiceClient.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\FishingGameClient.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\FishingGameClient.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Jurassic.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Jurassic.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\PhysXSDN.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\PhysXSDN.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesAPI.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesAPI.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesNet.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesNet.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesNetUnity.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesNetUnity.dll into Unity Child Domain
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesScript.dll (this message is harmless)
+Loading D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\SpacesScript.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on LeanTween
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.066666 ms
+Overlay Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overlay Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4d8 -> priority: 1 
+  Thread -> id: 4dc -> priority: 1 
+  Thread -> id: 21dc -> priority: 1 
+  Thread -> id: 19a0 -> priority: 1 
+Releasing render texture that is set to be RenderTexture.active!
+ 
+(Filename:  Line: 676)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Unity v5.6.3f1, Oculus Utilities v1.15.0, OVRPlugin v1.14.1, SDK v1.20.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading AssetBundle: D:/Oculus Apps/Software/facebook-vr-facebookvr/FacebookSpaces_Data/StreamingAssets\Avatar2/Win64/avatar2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: D:\Oculus Apps\Software\facebook-vr-facebookvr\FacebookSpaces_Data\Managed\System.Data.dll (this message is harmless)
+Caching bundle resources...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OvrLipSync Awake: Queried SampleRate: 48000 BufferSize: 1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Welcome to Facebook Spaces - build: 28.0.2507799.win.release
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Commit: 7993235d3a36329f1745561d42d33e91586b2d7c
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library D:/Oculus Apps/Software/facebook-vr-facebookvr/FacebookSpaces_Data/Mono/libc
+Fallback handler could not load library D:/Oculus Apps/Software/facebook-vr-facebookvr/FacebookSpaces_Data/Mono/.\libc
+Fallback handler could not load library D:/Oculus Apps/Software/facebook-vr-facebookvr/FacebookSpaces_Data/Mono/libc
+The referenced script on this Behaviour (Game Object 'GeometricPolaroidComponent') is missing!
+ 
+(Filename:  Line: 1743)
+
+Overlay Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'FacebookPlayer') is missing!
+ 
+(Filename:  Line: 1743)
+
+LocalPlayer is ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Releasing render texture that is set to be RenderTexture.active!
+ 
+(Filename:  Line: 676)
+
+Sender: 1385504935. Incoming sample rate changed from 48000 to 16000. Re-allocating buffer and setting AudioClip.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Applying new sample rate to peer: 1385504935
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1951)
+
+Releasing render texture that is set to be RenderTexture.active!
+ 
+(Filename:  Line: 676)
+
+[spawner] destroying object: [SpacesNet:16777222] SelfieStick(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[NonSurroundCapture] Starting encoder 720 x 1280: C:\Users\UNHcFREG\Documents\Facebook Spaces/recordings\record_720x1280_2017-12-14 02_19_47_video.h264
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MissingMethodException: The best match for method OnGrabBegin has some invalid parameter.
+  at System.MonoType.InvokeMember (System.String name, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object target, System.Object[] args, System.Reflection.ParameterModifier[] modifiers, System.Globalization.CultureInfo culture, System.String[] namedParameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMember (System.Object behaviour, System.String name, System.Object variable) [0x00000] in <filename unknown>:0 
+UnityEngine.Component:SendMessage(String, Object, SendMessageOptions)
+SpacesNetUnity.SpacesNetGrabbable:SendGrabMessage(Type, Entity)
+SpacesNetUnity.SpacesNetGrabbable:OnSimulationGrabBegin(Entity)
+SpacesNet.GrabbableComponent:PollGrabEvents()
+SpacesNet.Physics.PhysicsService:SetGrabbedBy(GrabbableComponent, Entity, GrabFlags)
+SpacesNet.Physics.PhysicsService:DoGrab(HandComponent, GrabbableComponent, String, GrabFlags)
+SpacesNet.Physics.PhysicsService:ForceGrab(HandComponent, GrabbableComponent, GrabFlags)
+SpacesNet.Physics.PhysicsService:DoInitialGrab(SpawnObjectRequest, Entity)
+SpacesNet.SpawnService:HandleSpawn(SpawnObjectRequest)
+SpacesNet.Messages.MessageHandler`1:Handle(MessageBase)
+SpacesNet.Messages.MessageDispatcher:Dispatch(MessageBase)
+SpacesNet.Physics.PhysicsService:ApplyInputs(List`1)
+SpacesNet.Physics.PhysicsService:SimulateFrame(List`1, List`1, Boolean, UInt64)
+SpacesNet.Physics.PhysicsService:Update(UInt64)
+SpacesNet.Engine:Update(Double)
+SpacesNet.Client.ClientService:UpdateClient()
+Facebook.Simulation:Update()
+ 
+(Filename:  Line: -1)
+
+MissingMethodException: The best match for method OnGrabEnd has some invalid parameter.
+  at System.MonoType.InvokeMember (System.String name, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object target, System.Object[] args, System.Reflection.ParameterModifier[] modifiers, System.Globalization.CultureInfo culture, System.String[] namedParameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMember (System.Object behaviour, System.String name, System.Object variable) [0x00000] in <filename unknown>:0 
+UnityEngine.Component:SendMessage(String, Object, SendMessageOptions)
+SpacesNetUnity.SpacesNetGrabbable:SendGrabMessage(Type, Entity)
+SpacesNetUnity.SpacesNetGrabbable:OnSimulationGrabEnd(Entity)
+SpacesNet.GrabbableComponent:PollGrabEvents()
+SpacesNet.Client.ClientService:CheckGrabEvents()
+SpacesNet.Client.ClientService:Update(UInt64)
+SpacesNet.Engine:Update(Double)
+SpacesNet.Client.ClientService:UpdateClient()
+Facebook.Simulation:Update()
+ 
+(Filename:  Line: -1)
+
+MissingMethodException: The best match for method OnGrabBegin has some invalid parameter.
+  at System.MonoType.InvokeMember (System.String name, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object target, System.Object[] args, System.Reflection.ParameterModifier[] modifiers, System.Globalization.CultureInfo culture, System.String[] namedParameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMember (System.Object behaviour, System.String name, System.Object variable) [0x00000] in <filename unknown>:0 
+UnityEngine.Component:SendMessage(String, Object, SendMessageOptions)
+SpacesNetUnity.SpacesNetGrabbable:SendGrabMessage(Type, Entity)
+SpacesNetUnity.SpacesNetGrabbable:OnSimulationGrabBegin(Entity)
+SpacesNet.GrabbableComponent:PollGrabEvents()
+SpacesNet.Physics.PhysicsService:SetGrabbedBy(GrabbableComponent, Entity, GrabFlags)
+SpacesNet.Physics.PhysicsService:DoGrab(HandComponent, GrabbableComponent, String, GrabFlags)
+SpacesNet.Physics.PhysicsService:ProcessHandContacts(Entity, Hand, Hand)
+SpacesNet.Physics.PhysicsService:ProcessHandContacts(List`1)
+SpacesNet.Physics.PhysicsService:SimulateFrame(List`1, List`1, Boolean, UInt64)
+SpacesNet.Physics.PhysicsService:Update(UInt64)
+SpacesNet.Engine:Update(Double)
+SpacesNet.Client.ClientService:UpdateClient()
+Facebook.Simulation:Update()
+ 
+(Filename:  Line: -1)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MissingMethodException: The best match for method OnGrabEnd has some invalid parameter.
+  at System.MonoType.InvokeMember (System.String name, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object target, System.Object[] args, System.Reflection.ParameterModifier[] modifiers, System.Globalization.CultureInfo culture, System.String[] namedParameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMember (System.Object behaviour, System.String name, System.Object variable) [0x00000] in <filename unknown>:0 
+UnityEngine.Component:SendMessage(String, Object, SendMessageOptions)
+SpacesNetUnity.SpacesNetGrabbable:SendGrabMessage(Type, Entity)
+SpacesNetUnity.SpacesNetGrabbable:OnSimulationGrabEnd(Entity)
+SpacesNet.GrabbableComponent:PollGrabEvents()
+SpacesNet.Client.ClientService:CheckGrabEvents()
+SpacesNet.Client.ClientService:Update(UInt64)
+SpacesNet.Engine:Update(Double)
+SpacesNet.Client.ClientService:UpdateClient()
+Facebook.Simulation:Update()
+ 
+(Filename:  Line: -1)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Releasing render texture that is set to be RenderTexture.active!
+ 
+(Filename:  Line: 676)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Core] FBRTI tearing down
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stop Encoding
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Facebook.Components.LiveVideoCapture.CloseTooltip (System.String tooltipKey) [0x00000] in <filename unknown>:0 
+  at Facebook.Components.LiveVideoCapture.ClosePrivacyTooltip () [0x00000] in <filename unknown>:0 
+  at Facebook.Components.LiveVideoCapture.ForceEndLive (Boolean shouldResetNetVars) [0x00000] in <filename unknown>:0 
+  at Facebook.Components.LiveVideoCapture.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+muxing is done for live mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+muxing thread is terminated
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+audio thread is terminated
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[core] disabling
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

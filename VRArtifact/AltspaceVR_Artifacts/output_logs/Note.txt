@@ -1,0 +1,3 @@
+Location: Steam\steamapps\common\altspacevr-altspacevr-pc\AltspaceVR_Data and Oculus Apps\Software\altspacevr-altspacevr-pc\AltspaceVR_Data.
+
+Details: This output file, in general contained the profile name, VE, and timestamped user activities.

@@ -1,0 +1,632 @@
+12/12/2017 7:33:17 PM
+Unity version: 0.23.0
+UI version: 5.0
+----------
+(00:00:00.0666516): Setting generated resolver as default.
+(00:00:00.0696596): VR SDK = OVR
+(00:00:00.0706623): HMD string = Oculus Rift CV1
+(00:00:00.0846987): Device Model = System Product Name (System manufacturer)
+(00:00:00.0852011): CPU = Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+(00:00:00.0862028): Memory size = 8112
+(00:00:00.0867052): GPU = NVIDIA GeForce GTX 1070
+(00:00:00.0877076): MSAA = 0
+(00:00:00.0897120): Render Scale = 1.5
+(00:00:00.0987456): Initializing Oculus Platform SDK
+
+(00:00:00.3862696): HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+
+
+(00:00:00.3902791): 0 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:00.3913088): 1 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:00.3917895): 2 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:00.3927865): 3 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:00.3933144): Determined safety of all attached displays:
+(00:00:00.3947921): \\.\DISPLAY1 is capturable
+(00:00:00.3957972): Create Primary monitor: 1600x900 Primary: 1
+(00:00:00.4178534): Printing microphone devices. Num = 1
+(00:00:00.4188561): Microphone (Rift Audio)
+(00:00:00.4288927): MonitorSaver Start
+(00:00:00.4409430): Initial playback device: Speakers (Realtek High Definition Audio)
+(00:00:00.4699920): Using Rift headphone device.
+(00:00:00.4735096): Setting default windows device to: Headphones (Rift Audio)
+(00:00:00.5863006): Setting FMOD device to: Headphones (Rift Audio)
+(00:00:00.6008394): SetPlaybackDevice index: 1 device Name=Headphones (Rift Audio) GUID=d2f0e7be-387d-425f-8b59-fbd2009f00a3 connected=True
+(00:00:00.6234004): SetPlaybackDevice index: 1 device Name=Speakers (Realtek High Definition Audio) GUID=dbbbe156-3f7d-4c18-8fa1-859c353d3235 connected=True
+(00:00:00.6444871): SetPlaybackDevice index: 0 device Name=Headphones (Rift Audio) GUID=d2f0e7be-387d-425f-8b59-fbd2009f00a3 connected=True
+
+(00:00:00.7848299): OVRA FMOD: Error initializing Oculus VR audio
+
+
+(00:00:01.3939481): Playback: 0: Headphones (Rift Audio) Guid = d2f0e7be-387d-425f-8b59-fbd2009f00a3
+(00:00:01.3944586): Playback: 1: Speakers (Realtek High Definition Audio) Guid = dbbbe156-3f7d-4c18-8fa1-859c353d3235
+(00:00:01.3969846): Bigscreen Unity version = 0.23.0 Alpha =  At time = 12/12/2017 2:33:18 PM
+(00:00:01.3994632): (00:00:04:896) Initializing scene ------------------------------------
+(00:00:01.4195165): (00:00:04:917) Is in singleplayer room
+(00:00:01.4230245): Wearing HMD = True
+
+(00:00:01.4611270): Oculus user request failed
+
+
+
+(00:00:02.8880359): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:00:02.9075625): Cannot set field of view on this camera while VR is enabled.
+
+
+(00:00:03.3412188): OS = Windows 10  (10.0.0) 64bit
+(00:00:03.3422181): OS = Windows 10
+(00:00:05.7407868): Wearing HMD = False
+(00:00:06.4276133): Plugin microphone input devices: [{ "type": "output", "name": "Headphones (Rift Audio)", "default": "", "audio_output_mirror_device": false},{ "type": "output", "name": "Speakers (Realtek High Definition Audio)", "default": "", "audio_output_mirror_device": true},{ "type": "input", "name": "Microphone (Rift Audio)", "default": "Default", "audio_output_mirror_device": false}]
+(00:00:06.4361358): Change microphone to name=Microphone (Rift Audio) index=2
+(00:00:06.4596989): MicInput@InitClip: Microphone (Rift Audio)
+(00:00:22.7730656): Wearing HMD = True
+
+(00:00:37.7522969): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:00:37.7552926): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:00:55.8675956): [Coherent GT] (Error) JS http://prod.bigscreenvr.com/ui2/5.0/min/lib/velocity.min.js:3:11799: TypeError: PromiseResolver is not a function (evaluating 'h(e)')
+
+
+(00:00:58.0233261): (00:01:01:520) Reload scene, with user: user2 in room room-51lunxwm, enviro should be Angitor
+(00:00:58.0243296): OS = Windows 10  (10.0.0) 64bit
+(00:00:58.0248302): OS = Windows 10
+(00:00:58.6545411): Initializing Oculus Platform SDK
+
+(00:00:58.8666056): HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+
+
+(00:00:58.8676082): 0 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:58.8681088): 1 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:58.8686103): 2 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:58.8696136): 3 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:00:58.8701141): Determined safety of all attached displays:
+(00:00:58.8706156): \\.\DISPLAY1 is capturable
+(00:00:58.8711165): Create Primary monitor: 1600x900 Primary: 1
+(00:00:58.8766584): Printing microphone devices. Num = 1
+(00:00:58.8776355): Microphone (Rift Audio)
+(00:00:58.8781355): MonitorSaver Start
+
+(00:00:58.8816455): OVRA FMOD: Error initializing Oculus VR audio
+
+
+(00:00:58.8831494): Playback: 0: Headphones (Rift Audio) Guid = d2f0e7be-387d-425f-8b59-fbd2009f00a3
+(00:00:58.8841524): Playback: 1: Speakers (Realtek High Definition Audio) Guid = dbbbe156-3f7d-4c18-8fa1-859c353d3235
+(00:00:58.8861568): (00:01:02:383) Initializing scene ------------------------------------
+(00:00:58.8911698): Change microphone to name=Microphone (Rift Audio) index=2
+(00:00:58.9287699): MicInput@InitClip: Microphone (Rift Audio)
+(00:00:58.9357922): ------------- NEW CONNECTION
+(00:00:58.9363033): (00:01:02:433) InitiatePeerConnection d3789e1b-3a0a-118c-2f54-b2b453c6e9db to user: user3 [PCID: 0]
+(00:00:58.9367921): -------------
+(00:00:58.9377951): (00:01:02:435) Is in multiplayer room
+(00:00:58.9382960): Wearing HMD = True
+
+(00:00:58.9668949): Oculus user request failed
+
+
+(00:00:59.0250574): (00:01:02:522) [SIGNAL] created offer for user3 [PCID: 0]
+(00:00:59.0270311): [UILog] Sent offer for user3 [PCID: 0]
+(00:00:59.0285359): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.0651330): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.0982210): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1218075): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1333386): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1443430): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1558867): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1669037): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1784348): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.1899752): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.2004929): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.2125266): [UILog] Sent ice for user3 [PCID: 0]
+(00:00:59.2566427): (00:01:02:754) [SIGNAL] received answer for user3 [PCID: 0]
+(00:00:59.2992556): ------------- NEW CONNECTION
+(00:00:59.3002573): (00:01:02:797) RemoteInitiatedPeerConnection 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7 to user: user1 [PCID: 0]
+(00:00:59.3007585): -------------
+(00:00:59.3027716): (00:01:02:799) [SIGNAL] received offer for user1 [PCID: 0]
+(00:00:59.3218157): (00:01:02:819) [SIGNAL] created answer for user1 [PCID: 0]
+(00:00:59.3228454): [UILog] Sent answer for user1 [PCID: 0]
+(00:00:59.3238201): [UILog] Sent ice for user1 [PCID: 0]
+(00:00:59.4000227): [UILog] Sent ice for user1 [PCID: 0]
+(00:00:59.4225828): [UILog] Sent ice for user1 [PCID: 0]
+(00:00:59.5228494): [UILog] Sent ice for user1 [PCID: 0]
+(00:00:59.6010576): (00:01:03:098) Local ice candidate generation has completed.
+(00:00:59.6025668): ------------- NEW CONNECTION
+(00:00:59.6035704): (00:01:03:100) InitiatePeerConnection d3789e1b-3a0a-118c-2f54-b2b453c6e9db to user: user3 [PCID: 1]
+(00:00:59.6040662): -------------
+(00:00:59.6231171): (00:01:03:120) [SIGNAL] created offer for user3 [PCID: 1]
+(00:00:59.6246198): [UILog] Sent offer for user3 [PCID: 1]
+(00:00:59.6256236): [UILog] Sent ice for user3 [PCID: 1]
+(00:00:59.6897930): [UILog] Sent ice for user3 [PCID: 1]
+(00:00:59.6998206): ------------- NEW CONNECTION
+(00:00:59.7003208): (00:01:03:198) InitiatePeerConnection 760925ba-b4db-6008-8c21-cc738233eb37 to user: user4 [PCID: 0]
+(00:00:59.7008220): -------------
+(00:00:59.7113508): (00:01:03:209) [SIGNAL] created offer for user4 [PCID: 0]
+(00:00:59.7128552): [UILog] Sent offer for user4 [PCID: 0]
+(00:00:59.7138570): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.7233936): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.7243851): [UILog] Sent ice for user3 [PCID: 1]
+(00:00:59.7344133): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.7900605): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.8005877): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.8121191): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.8131209): [UILog] Sent ice for user3 [PCID: 1]
+(00:00:59.8236625): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.8351894): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.8457073): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.8893243): (00:01:03:386) [SIGNAL] received answer for user3 [PCID: 1]
+(00:00:59.9133889): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.9249197): (00:01:03:422) Local ice candidate generation has completed.
+(00:00:59.9259209): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.9359481): [UILog] Sent ice for user4 [PCID: 0]
+(00:00:59.9449715): (00:01:03:441) [SIGNAL] received answer for user4 [PCID: 0]
+(00:00:59.9690367): (00:01:03:466) Local ice candidate generation has completed.
+(00:00:59.9700391): ------------- NEW CONNECTION
+(00:00:59.9705402): (00:01:03:468) InitiatePeerConnection 760925ba-b4db-6008-8c21-cc738233eb37 to user: user4 [PCID: 1]
+(00:00:59.9710414): -------------
+(00:00:59.9785607): (00:01:03:476) [SIGNAL] created offer for user4 [PCID: 1]
+(00:00:59.9800708): [UILog] Sent offer for user4 [PCID: 1]
+(00:00:59.9805684): [UILog] Sent ice for user4 [PCID: 1]
+(00:01:00.0452393): ------------- NEW CONNECTION
+(00:01:00.0457392): (00:01:03:543) RemoteInitiatedPeerConnection 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7 to user: user1 [PCID: 1]
+(00:01:00.0462416): -------------
+(00:01:00.0472434): (00:01:03:544) [SIGNAL] received offer for user1 [PCID: 1]
+(00:01:00.0572842): (00:01:03:555) [SIGNAL] created answer for user1 [PCID: 1]
+(00:01:00.0587748): [UILog] Sent answer for user1 [PCID: 1]
+(00:01:00.0592763): [UILog] Sent ice for user4 [PCID: 1]
+(00:01:00.0602789): [UILog] Sent ice for user1 [PCID: 1]
+(00:01:00.0793305): [UILog] Sent ice for user4 [PCID: 1]
+(00:01:00.1344834): [UILog] Sent ice for user1 [PCID: 1]
+(00:01:00.1570354): [UILog] Sent ice for user1 [PCID: 1]
+(00:01:00.1705721): (00:01:03:667) Local ice candidate generation has completed.
+(00:01:00.1735859): (00:01:03:671) UI.StartStreamingDesktop d3789e1b-3a0a-118c-2f54-b2b453c6e9db at desktop resolution: 1
+(00:01:00.1766107): (00:01:03:674) UI.StartStreamingMicAudio d3789e1b-3a0a-118c-2f54-b2b453c6e9db
+(00:01:00.1790947): (00:01:03:676) [SUCCESS] ------------- user3 connected -------------
+(00:01:00.2071699): (00:01:03:704) NewUserJoinedRoom user3
+(00:01:00.2708378): (00:01:03:768) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,
+(00:01:00.2773553): Creating fmod stream (7) with 1 channels, 4096 buffer size, 192000 length, 48000 frequency.
+(00:01:00.2778567): Position mode enabled
+(00:01:00.2823695): Playing remote user audio stream.
+(00:01:00.2853787): num DSP plugins = 33
+(00:01:00.2878831): DSP Plugin: Found Oculus Spatializer. Handle=58
+(00:01:00.2893870): Play fmod stream 7
+(00:01:00.2918938): (00:01:03:789) [OPENED] Data channel opened d3789e1b-3a0a-118c-2f54-b2b453c6e9db to user: user3
+(00:01:00.3034249): (00:01:03:800) [SIGNAL] received answer for user4 [PCID: 1]
+(00:01:00.3129503): [UILog] Sent ice for user4 [PCID: 1]
+(00:01:00.3144539): [UILog] Sent ice for user1 [PCID: 1]
+(00:01:00.3154563): (00:01:03:813) UI.StartStreamingDesktop 760925ba-b4db-6008-8c21-cc738233eb37 at desktop resolution: 1
+(00:01:00.3164589): (00:01:03:813) UI.StartStreamingMicAudio 760925ba-b4db-6008-8c21-cc738233eb37
+(00:01:00.3184649): (00:01:03:815) [SUCCESS] ------------- user4 connected -------------
+(00:01:00.3274894): (00:01:03:824) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=,user1,user3
+(00:01:00.3791263): (00:01:03:876) NewUserJoinedRoom user4
+(00:01:00.3801406): (00:01:03:877) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,,user3
+(00:01:00.3861566): Creating fmod stream (7) with 1 channels, 4096 buffer size, 192000 length, 48000 frequency.
+(00:01:00.3866458): Position mode enabled
+(00:01:00.3876488): Playing remote user audio stream.
+(00:01:00.3881496): num DSP plugins = 33
+(00:01:00.3886514): DSP Plugin: Found Oculus Spatializer. Handle=58
+(00:01:00.3891532): Play fmod stream 7
+(00:01:00.3901553): (00:01:03:887) [OPENED] Data channel opened 760925ba-b4db-6008-8c21-cc738233eb37 to user: user4
+(00:01:00.4397868): (00:01:03:936) Local ice candidate generation has completed.
+(00:01:00.4453022): (00:01:03:941) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user4,
+(00:01:00.8308332): (00:01:04:328) Local ice candidate generation has completed.
+(00:01:00.8318359): (00:01:04:329) UI.StartStreamingDesktop 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7 at desktop resolution: 1
+(00:01:00.8323374): (00:01:04:330) UI.StartStreamingMicAudio 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7
+(00:01:00.8343430): (00:01:04:331) [SUCCESS] ------------- user1 connected -------------
+(00:01:00.8564013): (00:01:04:354) NewUserJoinedRoom user1
+(00:01:00.8574037): (00:01:04:355) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,user4,,user3
+(00:01:00.8579151): Creating fmod stream (7) with 1 channels, 4096 buffer size, 192000 length, 48000 frequency.
+(00:01:00.8584199): Position mode enabled
+(00:01:00.8594093): Playing remote user audio stream.
+(00:01:00.8604123): num DSP plugins = 33
+(00:01:00.8609132): DSP Plugin: Found Oculus Spatializer. Handle=58
+(00:01:00.8614150): Play fmod stream 7
+(00:01:00.8619158): (00:01:04:359) [OPENED] Data channel opened 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7 to user: user1
+(00:01:00.9050302): (00:01:04:402) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=,user1,user3
+(00:01:02.1711887): (00:01:05:669) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,user4,,user3
+(00:01:02.2398711): (00:01:05:736) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:02.3040414): (00:01:05:801) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,user4,,user3
+(00:01:02.3466549): (00:01:05:843) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user4,user2,,user3
+(00:01:02.5075831): (00:01:06:005) Admin in room - Loading admin's environment
+(00:01:04.1419272): path = assetbundles/Windows/skyboxes/angitor_spacebox bundle = skyboxes/angitor_spacebox (UnityEngine.AssetBundle)
+(00:01:04.1454382): (00:01:07:642) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:04.2096070): (00:01:07:707) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:04.2968401): (00:01:07:791) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:04.4392189): (00:01:07:935) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:04.7530517): (00:01:08:250) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:04.8372759): (00:01:08:334) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:05.0663848): (00:01:08:563) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:05.4890084): (00:01:08:986) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:05.5983020): (00:01:09:095) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:05.6218614): (00:01:09:119) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:06.1557882): (00:01:09:653) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:06.2916483): (00:01:09:789) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:06.8441176): (00:01:10:341) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:07.4897326): (00:01:10:987) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:07.6035358): (00:01:11:099) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:07.6245909): (00:01:11:121) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:08.1595128): (00:01:11:656) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:08.2918655): (00:01:11:789) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:08.8503502): (00:01:12:347) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:09.4945626): (00:01:12:991) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:09.6043543): (00:01:13:101) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:09.6294209): (00:01:13:125) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:10.1628399): (00:01:13:659) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:10.2851645): (00:01:13:782) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:10.8601975): (00:01:14:357) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:11.4978891): (00:01:14:994) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:11.6182080): (00:01:15:115) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:11.6352540): (00:01:15:132) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:12.1706779): (00:01:15:667) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:12.2950069): (00:01:15:791) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:12.8620141): (00:01:16:359) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:13.4987079): (00:01:16:995) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:13.6445943): (00:01:17:142) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:13.6455985): (00:01:17:143) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:14.1830266): (00:01:17:679) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:14.2978316): (00:01:17:795) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:14.8713629): (00:01:18:368) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:15.5005284): (00:01:18:997) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:15.6358900): (00:01:19:133) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:15.6519306): (00:01:19:149) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:16.1836531): (00:01:19:681) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:16.3155037): (00:01:19:812) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:16.8774982): (00:01:20:374) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:17.5227289): (00:01:21:019) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:17.6430466): (00:01:21:140) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:17.6570839): (00:01:21:152) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:18.1955165): (00:01:21:691) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:18.3233556): (00:01:21:820) Received user state =userid=user3 userName=Ndumba steamId= oculusId=Ndumba area=0 seat=2 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:18.8908660): (00:01:22:387) Received user state =userid=user1 userName=adria steamId= oculusId=adriamartin area=0 seat=1 isAdmin=True environment=Angitor remoteUserSeatOrder=user2,,user1,user3
+(00:01:19.5358380): (00:01:23:033) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:19.6481375): (00:01:23:144) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Angitor remoteUserSeatOrder=user4,user2,,user3
+(00:01:19.6701961): (00:01:23:167) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+(00:01:20.2016217): (00:01:23:698) Sending user state to new player =userid=user2 userName=labvr53 steamId=76561198435970010 oculusId= area=0 seat=4 isAdmin=False environment=Angitor remoteUserSeatOrder=user2,user4,,user3
+
+(00:01:49.9064646): GetFocusWin() setting foreground window, showing window SW_SHOWDEFAULT
+
+
+
+(00:02:24.6715864): GetFocusWin() setting foreground window, showing window SW_SHOWDEFAULT
+
+
+(00:03:41.5672827): (00:03:45:064) UI.StopAllStreaming
+(00:03:41.5717943): RemoteUserDesktopTextureCreated user3
+(00:03:41.5732975): RemoteUserDesktopTextureCreated user4
+(00:03:41.5748026): RemoteUserDesktopTextureCreated user1
+(00:03:41.5788123): (00:03:45:076) Destroying all remote users: user3
+(00:03:41.5798147): Pausing remote user audio stream.
+(00:03:41.5803165): Pause fmod stream 7
+
+(00:03:41.5808195): [VOICE AUDIO ERROR] Connection not open yet for SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db
+
+
+(00:03:41.5818206): Destroying remote user audio stream.
+(00:03:41.5963585): (00:03:45:093) Destroying all remote users: user4
+(00:03:41.5968615): Pausing remote user audio stream.
+(00:03:41.5973744): Pause fmod stream 7
+
+(00:03:41.5978633): [VOICE AUDIO ERROR] Connection not open yet for SCID: 760925ba-b4db-6008-8c21-cc738233eb37
+
+
+(00:03:41.5988665): Destroying remote user audio stream.
+(00:03:41.6058849): (00:03:45:102) Destroying all remote users: user1
+(00:03:41.6139065): Pausing remote user audio stream.
+(00:03:41.6149086): Pause fmod stream 7
+
+(00:03:41.6154101): [VOICE AUDIO ERROR] Connection not open yet for SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7
+
+
+(00:03:41.6159110): Destroying remote user audio stream.
+(00:03:42.5641299): (00:03:46:061) Reload scene, with user: user1 in room none, enviro should be 
+(00:03:42.5651332): OS = Windows 10  (10.0.0) 64bit
+(00:03:42.5661349): OS = Windows 10
+(00:03:42.6333135): Stopping mic: Microphone (Rift Audio)
+(00:03:43.0400523): Initializing Oculus Platform SDK
+
+(00:03:43.1759121): HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+
+
+(00:03:43.1764412): 0 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:03:43.1769156): 1 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:03:43.1779183): 2 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:03:43.1784195): 3 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:03:43.1789318): Determined safety of all attached displays:
+(00:03:43.1799227): \\.\DISPLAY1 is capturable
+(00:03:43.1804251): Create Primary monitor: 1600x900 Primary: 1
+(00:03:43.1849364): Printing microphone devices. Num = 1
+(00:03:43.1859387): Microphone (Rift Audio)
+(00:03:43.1864402): MonitorSaver Start
+
+(00:03:43.1894491): OVRA FMOD: Error initializing Oculus VR audio
+
+
+(00:03:43.1914541): Playback: 0: Headphones (Rift Audio) Guid = d2f0e7be-387d-425f-8b59-fbd2009f00a3
+(00:03:43.1919559): Playback: 1: Speakers (Realtek High Definition Audio) Guid = dbbbe156-3f7d-4c18-8fa1-859c353d3235
+(00:03:43.1934751): (00:03:46:690) Initializing scene ------------------------------------
+(00:03:43.1969693): Change microphone to name=Microphone (Rift Audio) index=2
+(00:03:43.2160220): MicInput@InitClip: Microphone (Rift Audio)
+(00:03:43.2215729): (00:03:46:719) Is in singleplayer room
+(00:03:43.2225653): Wearing HMD = True
+
+(00:03:43.2370807): Oculus user request failed
+
+
+
+(00:03:44.0492337): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:03:44.0567544): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:03:48.8528282): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:03:48.8548434): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:04:05.6926433): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:04:05.7131992): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:04:12.2018483): GetFocusWin() setting foreground window, showing window SW_SHOWDEFAULT
+
+
+
+(00:04:23.9212459): Cannot set field of view on this camera while VR is enabled.
+
+
+
+(00:04:24.0400619): Cannot set field of view on this camera while VR is enabled.
+
+
+(00:05:54.7048865): (00:05:58:202) Reload scene, with user: user2 in room room-j78jlryh, enviro should be Grand Theater
+(00:05:54.7058894): OS = Windows 10  (10.0.0) 64bit
+(00:05:54.7063900): OS = Windows 10
+(00:05:54.7770784): Stopping mic: Microphone (Rift Audio)
+(00:05:55.6724229): Initializing Oculus Platform SDK
+
+(00:05:55.8002307): HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+
+
+(00:05:55.8012463): 0 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:05:55.8022556): 1 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:05:55.8027688): 2 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:05:55.8032393): 3 Display DeviceString:  StateFlags: 0 DeviceID:  DeviceName: \
+(00:05:55.8042423): Determined safety of all attached displays:
+(00:05:55.8047435): \\.\DISPLAY1 is capturable
+(00:05:55.8052687): Create Primary monitor: 1600x900 Primary: 1
+(00:05:55.8097634): Printing microphone devices. Num = 1
+(00:05:55.8102589): Microphone (Rift Audio)
+(00:05:55.8112724): MonitorSaver Start
+
+(00:05:55.8147701): OVRA FMOD: Error initializing Oculus VR audio
+
+
+(00:05:55.8162875): Playback: 0: Headphones (Rift Audio) Guid = d2f0e7be-387d-425f-8b59-fbd2009f00a3
+(00:05:55.8167857): Playback: 1: Speakers (Realtek High Definition Audio) Guid = dbbbe156-3f7d-4c18-8fa1-859c353d3235
+(00:05:55.8192829): (00:05:59:316) Initializing scene ------------------------------------
+(00:05:55.8238016): Change microphone to name=Microphone (Rift Audio) index=2
+(00:05:55.8614050): MicInput@InitClip: Microphone (Rift Audio)
+(00:05:55.8674099): (00:05:59:364) Is in multiplayer room
+(00:05:55.8679111): Wearing HMD = True
+
+(00:05:55.8794419): Oculus user request failed
+
+
+(00:05:56.1378718): ------------- NEW CONNECTION
+(00:05:56.1383802): (00:05:59:636) RemoteInitiatedPeerConnection ecb1425e-a574-31c1-3e9b-5c9ff89e8124 to user: user1 [PCID: 0]
+(00:05:56.1388760): -------------
+(00:05:56.1398783): (00:05:59:637) [SIGNAL] received offer for user1 [PCID: 0]
+(00:05:56.1724639): (00:05:59:670) [SIGNAL] created answer for user1 [PCID: 0]
+(00:05:56.1734930): [UILog] Sent answer for user1 [PCID: 0]
+(00:05:56.1744701): [UILog] Sent ice for user1 [PCID: 0]
+(00:05:56.2511730): [UILog] Sent ice for user1 [PCID: 0]
+(00:05:56.2722299): [UILog] Sent ice for user1 [PCID: 0]
+(00:05:56.3724958): [UILog] Sent ice for user1 [PCID: 0]
+(00:05:56.6607629): (00:06:00:158) Local ice candidate generation has completed.
+(00:05:56.7825863): ------------- NEW CONNECTION
+(00:05:56.7830872): (00:06:00:281) RemoteInitiatedPeerConnection ecb1425e-a574-31c1-3e9b-5c9ff89e8124 to user: user1 [PCID: 1]
+(00:05:56.7840997): -------------
+(00:05:56.7845946): (00:06:00:282) [SIGNAL] received offer for user1 [PCID: 1]
+(00:05:56.8076535): (00:06:00:305) [SIGNAL] created answer for user1 [PCID: 1]
+(00:05:56.8091574): [UILog] Sent answer for user1 [PCID: 1]
+(00:05:56.8096850): [UILog] Sent ice for user1 [PCID: 1]
+(00:05:56.8838552): [UILog] Sent ice for user1 [PCID: 1]
+(00:05:56.9089227): [UILog] Sent ice for user1 [PCID: 1]
+(00:05:57.0066816): [UILog] Sent ice for user1 [PCID: 1]
+(00:05:57.4087883): (00:06:00:906) Local ice candidate generation has completed.
+(00:05:57.4097891): (00:06:00:907) UI.StartStreamingDesktop ecb1425e-a574-31c1-3e9b-5c9ff89e8124 at desktop resolution: 1
+(00:05:57.4122969): (00:06:00:909) UI.StartStreamingMicAudio ecb1425e-a574-31c1-3e9b-5c9ff89e8124
+(00:05:57.4143076): (00:06:00:911) [SUCCESS] ------------- user1 connected -------------
+(00:05:57.4193143): (00:06:00:916) NewUserJoinedRoom user1
+(00:05:57.4198164): (00:06:00:917) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,
+(00:05:57.4208185): Creating fmod stream (7) with 1 channels, 4096 buffer size, 192000 length, 48000 frequency.
+(00:05:57.4218211): Position mode enabled
+(00:05:57.4273966): Playing remote user audio stream.
+(00:05:57.4278377): num DSP plugins = 33
+(00:05:57.4283527): DSP Plugin: Found Oculus Spatializer. Handle=58
+(00:05:57.4288395): Play fmod stream 7
+(00:05:57.4298424): (00:06:00:927) [OPENED] Data channel opened ecb1425e-a574-31c1-3e9b-5c9ff89e8124 to user: user1
+(00:05:57.5200823): (00:06:01:017) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:05:59.4086026): (00:06:02:906) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user2,
+(00:05:59.4091041): (00:06:02:907) Admin in room - Loading admin's environment
+(00:05:59.5287064): (00:06:03:026) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:05:59.7242253): (00:06:03:222) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:01.4166431): (00:06:04:913) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:01.4376988): (00:06:04:935) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:03.4166050): (00:06:06:914) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:03.4493216): (00:06:06:947) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:05.4165572): (00:06:08:914) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:05.4616768): (00:06:08:959) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:07.4168757): (00:06:10:914) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:07.4710181): (00:06:10:968) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:09.4281238): (00:06:12:925) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:09.4722365): (00:06:12:969) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:11.4282109): (00:06:14:925) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:11.4733317): (00:06:14:970) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:13.4294690): (00:06:16:927) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:13.4851155): (00:06:16:982) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:06:15.4383088): (00:06:18:935) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user2,
+(00:06:15.5055129): (00:06:19:003) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1
+(00:07:18.9217266): ------------- NEW CONNECTION
+(00:07:18.9227293): (00:07:22:420) InitiatePeerConnection fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a to user: user3 [PCID: 0]
+(00:07:18.9237323): -------------
+(00:07:18.9417832): (00:07:22:439) [SIGNAL] created offer for user3 [PCID: 0]
+(00:07:18.9432850): [UILog] Sent offer for user3 [PCID: 0]
+(00:07:18.9437862): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:18.9533116): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:18.9648536): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.0215046): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.0295401): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.0420477): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.0555820): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.0646075): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.0756452): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.1558486): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.1633699): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.1748992): [UILog] Sent ice for user3 [PCID: 0]
+(00:07:19.2536083): (00:07:22:751) [SIGNAL] received answer for user3 [PCID: 0]
+(00:07:19.9599875): (00:07:23:457) Local ice candidate generation has completed.
+(00:07:19.9614904): ------------- NEW CONNECTION
+(00:07:19.9624949): (00:07:23:460) InitiatePeerConnection fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a to user: user3 [PCID: 1]
+(00:07:19.9629940): -------------
+(00:07:19.9790375): (00:07:23:476) [SIGNAL] created offer for user3 [PCID: 1]
+(00:07:19.9800396): [UILog] Sent offer for user3 [PCID: 1]
+(00:07:19.9810431): [UILog] Sent ice for user3 [PCID: 1]
+(00:07:20.0542368): [UILog] Sent ice for user3 [PCID: 1]
+(00:07:20.0778056): [UILog] Sent ice for user3 [PCID: 1]
+(00:07:20.1755593): [UILog] Sent ice for user3 [PCID: 1]
+(00:07:20.3074100): (00:07:23:804) [SIGNAL] received answer for user3 [PCID: 1]
+(00:07:20.9109915): (00:07:24:407) Local ice candidate generation has completed.
+(00:07:20.9129968): (00:07:24:410) UI.StartStreamingDesktop fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a at desktop resolution: 1
+(00:07:20.9140001): (00:07:24:411) UI.StartStreamingMicAudio fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a
+(00:07:20.9160048): (00:07:24:413) [SUCCESS] ------------- user3 connected -------------
+(00:07:20.9210181): (00:07:24:418) NewUserJoinedRoom user3
+(00:07:20.9220208): (00:07:24:419) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:20.9230240): Creating fmod stream (7) with 1 channels, 4096 buffer size, 192000 length, 48000 frequency.
+(00:07:20.9235249): Position mode enabled
+(00:07:20.9245303): Playing remote user audio stream.
+(00:07:20.9250288): num DSP plugins = 33
+(00:07:20.9255306): DSP Plugin: Found Oculus Spatializer. Handle=58
+(00:07:20.9260323): Play fmod stream 7
+(00:07:20.9265455): (00:07:24:424) [OPENED] Data channel opened fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a to user: user3
+(00:07:21.0749590): (00:07:24:572) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user3,,user1
+(00:07:22.9183614): (00:07:26:415) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:23.0401634): (00:07:26:537) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:23.0937957): (00:07:26:591) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:23.3394469): (00:07:26:837) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:24.9256637): (00:07:28:423) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:25.3372583): (00:07:28:834) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:26.9259816): (00:07:30:423) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:27.3400821): (00:07:30:837) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:28.9328166): (00:07:32:429) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:29.3574450): (00:07:32:854) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:30.9436615): (00:07:34:441) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:31.3497407): (00:07:34:847) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:32.9466845): (00:07:36:444) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:33.3472498): (00:07:36:844) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:34.9550234): (00:07:38:452) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=,user1,user2
+(00:07:35.5526123): (00:07:39:049) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:36.3833208): ------------- NEW CONNECTION
+(00:07:36.3843229): (00:07:39:881) InitiatePeerConnection ef3e72d4-7538-612c-2e9f-1f5aa46c3790 to user: user4 [PCID: 0]
+(00:07:36.3848250): -------------
+(00:07:36.3978593): (00:07:39:894) [SIGNAL] created offer for user4 [PCID: 0]
+(00:07:36.4008679): [UILog] Sent offer for user4 [PCID: 0]
+(00:07:36.4103922): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.4184141): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.4304455): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.4760675): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.4860936): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.4971235): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.5096567): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.5181786): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.5292082): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.6079191): (00:07:40:105) [SIGNAL] received answer for user4 [PCID: 0]
+(00:07:36.6109253): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.6184454): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.6194481): ------------- NEW CONNECTION
+(00:07:36.6199499): (00:07:40:117) InitiatePeerConnection ef3e72d4-7538-612c-2e9f-1f5aa46c3790 to user: user4 [PCID: 1]
+(00:07:36.6204510): -------------
+(00:07:36.6334863): [UILog] Sent ice for user4 [PCID: 0]
+(00:07:36.6344887): (00:07:40:131) [SIGNAL] created offer for user4 [PCID: 1]
+(00:07:36.6364940): [UILog] Sent offer for user4 [PCID: 1]
+(00:07:36.6390008): [UILog] Sent ice for user4 [PCID: 1]
+(00:07:36.6490269): (00:07:40:146) Local ice candidate generation has completed.
+(00:07:36.7172093): [UILog] Sent ice for user4 [PCID: 1]
+(00:07:36.7437792): [UILog] Sent ice for user4 [PCID: 1]
+(00:07:36.8450490): (00:07:40:342) [SIGNAL] received answer for user4 [PCID: 1]
+(00:07:36.8505629): [UILog] Sent ice for user4 [PCID: 1]
+(00:07:36.8590863): (00:07:40:356) Local ice candidate generation has completed.
+(00:07:36.8600881): (00:07:40:357) UI.StartStreamingDesktop ef3e72d4-7538-612c-2e9f-1f5aa46c3790 at desktop resolution: 1
+(00:07:36.8605890): (00:07:40:358) UI.StartStreamingMicAudio ef3e72d4-7538-612c-2e9f-1f5aa46c3790
+(00:07:36.8625943): (00:07:40:360) [SUCCESS] ------------- user4 connected -------------
+(00:07:36.8681091): (00:07:40:365) NewUserJoinedRoom user4
+(00:07:36.8686103): (00:07:40:366) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:36.8746266): Creating fmod stream (7) with 1 channels, 4096 buffer size, 192000 length, 48000 frequency.
+(00:07:36.8751278): Position mode enabled
+(00:07:36.8761310): Playing remote user audio stream.
+(00:07:36.8766316): num DSP plugins = 33
+(00:07:36.8771337): DSP Plugin: Found Oculus Spatializer. Handle=58
+(00:07:36.8776412): Play fmod stream 7
+(00:07:36.8786372): (00:07:40:376) [OPENED] Data channel opened ef3e72d4-7538-612c-2e9f-1f5aa46c3790 to user: user4
+(00:07:36.9468185): (00:07:40:444) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user4,
+(00:07:36.9593550): (00:07:40:456) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:37.5469142): (00:07:41:044) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1
+(00:07:38.8694294): (00:07:42:367) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:38.8814632): (00:07:42:377) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=-1 isAdmin=False environment= remoteUserSeatOrder=user4,,user1,user2
+(00:07:38.9651847): (00:07:42:462) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:39.5607671): (00:07:43:058) Received user state =userid=user3 userName=Olav steamId= oculusId=Deniax94 area=0 seat=0 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:39.9693537): (00:07:43:466) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:40.1623666): (00:07:43:657) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:40.8732682): (00:07:44:370) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:40.8877955): (00:07:44:384) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:42.8841457): (00:07:46:380) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:42.9112174): (00:07:46:408) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:44.8864693): (00:07:48:383) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:44.9340954): (00:07:48:431) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:46.8998215): (00:07:50:396) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:46.9314059): (00:07:50:428) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:48.9091697): (00:07:52:406) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:48.9317295): (00:07:52:428) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:50.9395682): (00:07:54:436) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:50.9410714): (00:07:54:438) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:52.9338701): (00:07:56:430) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:52.9569299): (00:07:56:447) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+(00:07:54.9542395): (00:07:58:451) Sending user state to new player =userid=user2 userName=labvr5gffb steamId=76561198435970010 oculusId= area=0 seat=2 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:07:54.9557436): (00:07:58:453) Received user state =userid=user4 userName=labvr53 steamId=76561198437006377 oculusId= area=0 seat=3 isAdmin=False environment=Grand Theater remoteUserSeatOrder=user4,,user1,user2
+
+(00:09:43.5497125): GetFocusWin() setting foreground window, showing window SW_SHOWDEFAULT
+
+
+
+(00:09:52.0716415): GetFocusWin() setting foreground window, showing window SW_SHOWDEFAULT
+
+
+
+(00:11:08.2782627): GetFocusWin() setting foreground window, showing window SW_SHOWDEFAULT
+
+
+(00:13:02.9304991): Wearing HMD = False
+(00:13:02.9440350): (00:13:06:441) UI.StopStreamingMicAudio
+(00:13:13.1578286): (00:13:16:655) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:14:32.4678605): (00:14:35:964) Received user state =userid=user1 userName=db steamId= oculusId=dglazer area=0 seat=1 isAdmin=True environment=Grand Theater remoteUserSeatOrder=user3,,user1,user2
+(00:16:10.7364613): Restoring playback device: Speakers (Realtek High Definition Audio)
+(00:16:10.7369712): Setting default windows device to: Speakers (Realtek High Definition Audio)
+(00:16:10.8572826): Application will be exiting. Shut down RTC plugin.
+(00:16:11.6159464): Exiter@OnApplicationQuit
+(00:16:11.6169491): Exiter@OnApplicationQuit Successful
+(00:16:11.6430190): Stopping mic: Microphone (Rift Audio)

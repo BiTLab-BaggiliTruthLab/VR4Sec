@@ -1,0 +1,2 @@
+Location: \facebook-vr-facebookvr\FacebookSpaces_Data\StreamingAssets\Avatar2\Win64
+Details: The above location contains user profile pictures.

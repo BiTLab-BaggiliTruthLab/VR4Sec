@@ -1,0 +1,10 @@
+Location:SteamLibrary\steamapps\common\Bigscreen\Bigscreen_Data and \Oculus\Software\Software\bigscreen-bigscreen\Bigscreen\Bigscreen_Data.
+Details: Application and user events were primarily logged in the above mentioneddirectories.
+Two log files, output_log.txt} and output_log2.txt were consistently produced in this folder. 
+The output_log2.txt file contained the Interactive Connectivity Establishment (ICE) server responses and system display settings. 
+The entry for HMD in output_log.txt indicated the type of VR headset (HTC Vive/Oculus Rift) the user had used.
+The output_log.txt file provided details of playback devices and audio output. 
+The output_log.txt also contained the timestamps of scene initialization.
+The logs show user details and the ID's respectively. Given the Steam ID, profile details such as name, creation date, last login date, and location can 
+be ascertained from a web database. The log contained details of the virtual room, administrator, screen sharing information, environment chosen, and the seating order. 
+All the social activities performed during testing are reflected in the logs, thus giving the chance to interpret and reconstruct the incident that would have occurred.

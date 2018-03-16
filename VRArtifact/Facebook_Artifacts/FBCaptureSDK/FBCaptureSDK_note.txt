@@ -1,0 +1,2 @@
+Location: \facebook-vr-facebookvr\
+Details: The file FBCaptureSDK.txt contained video codecs, audio codecs, bit rate, frame timestamps and the audio device name that were used.

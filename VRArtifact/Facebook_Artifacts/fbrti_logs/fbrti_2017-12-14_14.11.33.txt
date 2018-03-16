@@ -1,0 +1,873 @@
+[FBNS:0] ClientImpl.cpp:164 FBNS: Trying user auth
+[MultiwayConnection:207] Changing state from 0 to 1
+[webrtc:208] (webrtcpeerconnection.cpp:797): Thread invoked me
+[webrtc:209] (webrtcpeerconnection.cpp:174): Starting capture
+[webrtc:211] (mediasession.cc:376): Duplicate id found. Reassigning from 101 to 125
+[MultiwayConnection:214] Offer:
+v=0
+o=- 4957058397489395664 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE audio video
+a=msid-semantic: WMS ovr_voip
+m=audio 9 RTP/SAVPF 111 103
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:Zn4bzZil/FHEUD+V
+a=ice-pwd:m/3N1UrDetUa0xHoEVmttYcB
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:n5ag05f6OLM1U0ksiCM6UsQPvLAZ/w/gNZ/IErBn
+a=rtpmap:111 opus/48000/2
+a=fmtp:111 maxaveragebitrate=16000; useinbandfec=1
+a=rtpmap:103 isac/16000
+a=ssrc:4178137263 cname:HjdAm2HdOG2Y7/TX
+a=ssrc:4178137263 msid:ovr_voip 8046571465931906781
+a=ssrc:4178137263 mslabel:ovr_voip
+a=ssrc:4178137263 label:8046571465931906781
+m=video 9 RTP/SAVPF 100 101 107 116 117
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:Zn4bzZil/FHEUD+V
+a=ice-pwd:m/3N1UrDetUa0xHoEVmttYcB
+a=mid:video
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:4 urn:3gpp:video-orientation
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:n5ag05f6OLM1U0ksiCM6UsQPvLAZ/w/gNZ/IErBn
+a=rtpmap:100 VP8/90000
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=rtcp-fb:100 goog-remb
+a=rtcp-fb:100 transport-cc
+a=rtpmap:101 VP9/90000
+a=rtcp-fb:101 ccm fir
+a=rtcp-fb:101 nack
+a=rtcp-fb:101 nack pli
+a=rtcp-fb:101 goog-remb
+a=rtcp-fb:101 transport-cc
+a=rtpmap:107 H264/90000
+a=rtcp-fb:107 ccm fir
+a=rtcp-fb:107 nack
+a=rtcp-fb:107 nack pli
+a=rtcp-fb:107 goog-remb
+a=rtcp-fb:107 transport-cc
+a=rtpmap:116 red/90000
+a=rtpmap:117 ulpfec/90000
+a=ssrc:3008633530 cname:HjdAm2HdOG2Y7/TX
+a=ssrc:3008633530 msid:ovr_voip 4068998881038075912
+a=ssrc:3008633530 mslabel:ovr_voip
+a=ssrc:3008633530 label:4068998881038075912
+
+[webrtc:215] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:222] (p2ptransportchannel.cc:457): Jingle:Port[00000000D9FA7450:audio:1:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:223] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:223] (p2ptransportchannel.cc:457): Jingle:Port[00000000D9FA8E30:audio:2:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:223] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:224] (p2ptransportchannel.cc:457): Jingle:Port[00000000D9FA78A0:video:1:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:224] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:224] (p2ptransportchannel.cc:457): Jingle:Port[00000000DA320060:video:2:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[FBNSNotificationHandler:278] Push token: {"k":"eyJwbiI6ImNvbS5vY3VsdXMucGxhdGZvcm0iLCJkaSI6IjgyNTlmODRhLWJiYmEtNGNlZS1hYzc1LTBjZTk3ZWM4ZTJlYyIsImFpIjo1NjczMTAyMDM0MTUwNTIsImNrIjoiNzY0Mzc3MzIxNjI4MjQ0In0=","v":0,"t":"fbns-b64"}
+[webrtc:324] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:324] (p2ptransportchannel.cc:457): Jingle:Port[00000000DA1E3010:audio:1:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:325] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:325] (p2ptransportchannel.cc:457): Jingle:Port[00000000DA1E5140:audio:2:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:326] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:326] (p2ptransportchannel.cc:457): Jingle:Port[00000000DA1E1DA0:video:1:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:327] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:327] (p2ptransportchannel.cc:457): Jingle:Port[00000000DA1E54F0:video:2:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[MultiwayConnection:415] Changing state from 1 to 2
+[MultiwayConnection:415] Connection id: cnRjYzpmcmN8MTAwMDIzMjQxNzQyMzYwfDQ5NTcwNTgzOTc0ODkzOTU2NjR8OTcyNjMxMzU5NDc5MjIwfHx8NDk1NzA1ODM5NzQ4OTM5NTY2NHxmcmN8U09DSUFMX1ZASX1JPT006MTIwNjk5Njg4NzE0NzU1fFROV3lYRUhk
+[MultiwayConnection:416] Answer:
+v=0
+o=- 4649093668873630022 1 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=ice-lite
+a=group:BUNDLE audio video
+a=msid-semantic: WMS
+m=audio 40003 RTP/SAVPF 111
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=x-google-flag:conference
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:ufMK003XiB79w8fo
+a=ice-pwd:kvn6PvU3cQyL+xHFhsnOQu1o
+a=ice-options:fb-force-5245
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=recvonly
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:7rZ7HWF0r3hVf6FCWiZvcQVMscfF8vS9lJaK8uLC
+a=rtpmap:111 opus/48000/2
+a=fmtp:111 minptime=10
+m=video 40003 RTP/SAVPF 107
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=x-google-flag:conference
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:ufMK003XiB79w8fo
+a=ice-pwd:kvn6PvU3cQyL+xHFhsnOQu1o
+a=ice-options:fb-force-5245
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:7rZ7HWF0r3hVf6FCWiZvcQVMscfF8vS9lJaK8uLC
+a=rtpmap:107 H264/90000
+a=rtcp-fb:107 ccm fir
+a=rtcp-fb:107 nack
+a=rtcp-fb:107 goog-remb
+
+[webrtc:424] (webrtcvoiceengine.cc:1057): webrtc: SetREDStatus() RED is not supported (error=8003)
+[webrtc:426] (video_send_stream.cc:257): Transmitting payload type without picture ID usingNACK+FEC is a waste of bandwidth since FEC packets also have to be retransmitted. Disabling FEC.
+[webrtc:426] (rtp_packet_history.cc:44): Purging packet history in order to re-set status.
+[MultiwayConnection:427] ICE connection state changed to 1
+[MultiwayConnection:476] ICE connection state changed to 2
+[MultiwayConnection:476] ICE connection state changed to 3
+[MultiwayConnection:476] Changing state from 2 to 3
+[Conference:2461] New participant states fetched of size.. 1.
+[FBNSNotificationHandler:4067] Setting RING callback
+[Conference:4453] New participant states fetched of size.. 1.
+[Conference:6456] New participant states fetched of size.. 1.
+[Conference:8455] New participant states fetched of size.. 1.
+[Conference:10487] New participant states fetched of size.. 1.
+[Conference:12454] New participant states fetched of size.. 1.
+[Conference:14455] New participant states fetched of size.. 1.
+[Conference:16459] New participant states fetched of size.. 1.
+[Conference:18457] New participant states fetched of size.. 1.
+[Conference:20461] New participant states fetched of size.. 1.
+[Conference:22460] New participant states fetched of size.. 1.
+[Conference:24459] New participant states fetched of size.. 1.
+[Conference:26461] New participant states fetched of size.. 1.
+[Conference:28462] New participant states fetched of size.. 1.
+[Conference:30459] New participant states fetched of size.. 1.
+[Conference:32467] New participant states fetched of size.. 1.
+[Conference:34465] New participant states fetched of size.. 1.
+[Conference:36469] New participant states fetched of size.. 1.
+[Conference:38470] New participant states fetched of size.. 1.
+[Conference:40464] New participant states fetched of size.. 1.
+[Conference:42466] New participant states fetched of size.. 1.
+[Conference:44465] New participant states fetched of size.. 1.
+[Conference:46467] New participant states fetched of size.. 1.
+[Conference:48468] New participant states fetched of size.. 1.
+[Conference:50467] New participant states fetched of size.. 1.
+[Conference:52470] New participant states fetched of size.. 1.
+[Conference:54478] New participant states fetched of size.. 1.
+[Conference:56467] New participant states fetched of size.. 1.
+[Conference:58470] New participant states fetched of size.. 1.
+[Conference:60471] New participant states fetched of size.. 1.
+[Conference:62471] New participant states fetched of size.. 1.
+[Conference:64472] New participant states fetched of size.. 1.
+[Conference:66472] New participant states fetched of size.. 1.
+[Conference:68472] New participant states fetched of size.. 1.
+[Conference:70472] New participant states fetched of size.. 1.
+[Conference:72474] New participant states fetched of size.. 1.
+[webrtc:73832] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:74474] New participant states fetched of size.. 1.
+[webrtc:74881] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:76480] New participant states fetched of size.. 1.
+[Conference:78479] New participant states fetched of size.. 1.
+[Conference:80480] New participant states fetched of size.. 1.
+[Conference:82478] New participant states fetched of size.. 1.
+[Conference:84477] New participant states fetched of size.. 1.
+[Conference:86479] New participant states fetched of size.. 1.
+[Conference:88480] New participant states fetched of size.. 1.
+[Conference:90482] New participant states fetched of size.. 1.
+[Conference:92481] New participant states fetched of size.. 1.
+[Conference:94488] New participant states fetched of size.. 1.
+[Conference:96482] New participant states fetched of size.. 1.
+[Conference:98483] New participant states fetched of size.. 1.
+[Conference:100484] New participant states fetched of size.. 1.
+[Conference:102486] New participant states fetched of size.. 1.
+[Conference:104488] New participant states fetched of size.. 1.
+[Conference:106486] New participant states fetched of size.. 1.
+[Conference:108486] New participant states fetched of size.. 1.
+[Conference:110485] New participant states fetched of size.. 1.
+[Conference:112486] New participant states fetched of size.. 1.
+[Conference:114489] New participant states fetched of size.. 1.
+[Conference:116486] New participant states fetched of size.. 1.
+[Conference:118491] New participant states fetched of size.. 1.
+[Conference:120495] New participant states fetched of size.. 1.
+[Conference:122491] New participant states fetched of size.. 1.
+[Conference:124491] New participant states fetched of size.. 1.
+[Conference:126493] New participant states fetched of size.. 1.
+[Conference:128493] New participant states fetched of size.. 1.
+[Conference:130493] New participant states fetched of size.. 1.
+[Conference:132495] New participant states fetched of size.. 1.
+[Conference:134496] New participant states fetched of size.. 1.
+[Conference:136498] New participant states fetched of size.. 1.
+[Conference:138495] New participant states fetched of size.. 1.
+[Conference:140498] New participant states fetched of size.. 1.
+[Conference:142499] New participant states fetched of size.. 1.
+[Conference:144497] New participant states fetched of size.. 1.
+[Conference:146503] New participant states fetched of size.. 1.
+[Conference:148503] New participant states fetched of size.. 1.
+[Conference:150502] New participant states fetched of size.. 1.
+[Conference:152504] New participant states fetched of size.. 1.
+[Conference:154504] New participant states fetched of size.. 1.
+[Conference:156504] New participant states fetched of size.. 1.
+[Conference:158505] New participant states fetched of size.. 1.
+[Conference:160508] New participant states fetched of size.. 1.
+[Conference:162506] New participant states fetched of size.. 1.
+[Conference:164508] New participant states fetched of size.. 1.
+[Conference:166506] New participant states fetched of size.. 1.
+[Conference:168507] New participant states fetched of size.. 1.
+[Conference:170507] New participant states fetched of size.. 1.
+[Conference:172508] New participant states fetched of size.. 1.
+[Conference:174510] New participant states fetched of size.. 1.
+[Conference:176513] New participant states fetched of size.. 1.
+[Conference:178512] New participant states fetched of size.. 1.
+[Conference:180568] New participant states fetched of size.. 1.
+[Conference:182514] New participant states fetched of size.. 1.
+[Conference:184515] New participant states fetched of size.. 1.
+[Conference:186514] New participant states fetched of size.. 1.
+[Conference:188515] New participant states fetched of size.. 1.
+[Conference:190515] New participant states fetched of size.. 1.
+[Conference:192518] New participant states fetched of size.. 1.
+[Conference:194518] New participant states fetched of size.. 1.
+[Conference:196520] New participant states fetched of size.. 1.
+[Conference:198520] New participant states fetched of size.. 1.
+[Conference:200521] New participant states fetched of size.. 1.
+[Conference:202522] New participant states fetched of size.. 1.
+[MultiwayConnection:203027] Changing state from 0 to 1
+[webrtc:203028] (webrtcpeerconnection.cpp:797): Thread invoked me
+[webrtc:203028] (webrtcpeerconnection.cpp:174): Starting capture
+[webrtc:203029] (mediasession.cc:376): Duplicate id found. Reassigning from 101 to 125
+[Conference:203031] Inviting participant 1385504935 to the conference
+[MultiwayConnection:203031] Offer:
+v=0
+o=- 6468320452598450437 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE audio video
+a=msid-semantic: WMS ovr_voip
+m=audio 9 RTP/SAVPF 111 103
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:OyIPW1up/kteBveg
+a=ice-pwd:KARaGpOSfStdyx16wPmMP07B
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:fgPv5XQBGhfNWPv8DkRzGhK7ccvepWXF8tjlG0fi
+a=rtpmap:111 opus/48000/2
+a=fmtp:111 maxaveragebitrate=16000; useinbandfec=1
+a=rtpmap:103 isac/16000
+a=ssrc:4281801118 cname:lRo5cC563ogtTLIs
+a=ssrc:4281801118 msid:ovr_voip 14168448253284978464
+a=ssrc:4281801118 mslabel:ovr_voip
+a=ssrc:4281801118 label:14168448253284978464
+m=video 9 RTP/SAVPF 100 101 107 116 117
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:OyIPW1up/kteBveg
+a=ice-pwd:KARaGpOSfStdyx16wPmMP07B
+a=mid:video
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:4 urn:3gpp:video-orientation
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:fgPv5XQBGhfNWPv8DkRzGhK7ccvepWXF8tjlG0fi
+a=rtpmap:100 VP8/90000
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=rtcp-fb:100 goog-remb
+a=rtcp-fb:100 transport-cc
+a=rtpmap:101 VP9/90000
+a=rtcp-fb:101 ccm fir
+a=rtcp-fb:101 nack
+a=rtcp-fb:101 nack pli
+a=rtcp-fb:101 goog-remb
+a=rtcp-fb:101 transport-cc
+a=rtpmap:107 H264/90000
+a=rtcp-fb:107 ccm fir
+a=rtcp-fb:107 nack
+a=rtcp-fb:107 nack pli
+a=rtcp-fb:107 goog-remb
+a=rtcp-fb:107 transport-cc
+a=rtpmap:116 red/90000
+a=rtpmap:117 ulpfec/90000
+a=ssrc:3531175698 cname:lRo5cC563ogtTLIs
+a=ssrc:3531175698 msid:ovr_voip 17415986720870822666
+a=ssrc:3531175698 mslabel:ovr_voip
+a=ssrc:3531175698 label:17415986720870822666
+
+[webrtc:203032] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203039] (p2ptransportchannel.cc:457): Jingle:Port[000000007F1BCEA0:audio:1:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203040] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203040] (p2ptransportchannel.cc:457): Jingle:Port[00000000E79B6650:audio:2:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203040] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203040] (p2ptransportchannel.cc:457): Jingle:Port[00000000E79B6EF0:video:1:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203041] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203041] (p2ptransportchannel.cc:457): Jingle:Port[00000000E79B3F80:video:2:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203142] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203142] (p2ptransportchannel.cc:457): Jingle:Port[00000000E7847E50:audio:1:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203143] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203143] (p2ptransportchannel.cc:457): Jingle:Port[00000000E7846BE0:audio:2:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203144] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203144] (p2ptransportchannel.cc:457): Jingle:Port[00000000E78476F0:video:1:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:203144] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:203145] (p2ptransportchannel.cc:457): Jingle:Port[00000000E7846F90:video:2:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[MultiwayConnection:203487] Changing state from 1 to 2
+[MultiwayConnection:203488] Connection id: cnRjYzpmcmN8MTAwMDIzMjQxNzQyMzYwfDY0NjgzMjA0NTI1OTg0NTA0Mzd8OTcyNjMxMzU5NDc5MjIwfHx8NjQ2ODMyMDQ1MjU5ODQ1MDQzN3xmcmN8UEVFUjoxMzg1NTA0OTM1OjEwMDAyMzI0MTc0MjM2MHx4RUlLQWRDVwZDZD
+[MultiwayConnection:203488] Answer:
+v=0
+o=- 8326298576816262627 1 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=ice-lite
+a=group:BUNDLE audio video
+a=msid-semantic: WMS
+m=audio 40003 RTP/SAVPF 103
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:6K2JHVM3UAvMJMl7
+a=ice-pwd:KLtjfNpKy45pQHgoNCPkG3U+
+a=ice-options:fb-force-5245
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=recvonly
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:l1DJUKwER5HG0+0Qzs6wEckmf7QXYSaYExxmYcR2
+a=rtpmap:103 ISAC/16000
+m=video 40003 RTP/SAVPF 100
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:6K2JHVM3UAvMJMl7
+a=ice-pwd:KLtjfNpKy45pQHgoNCPkG3U+
+a=ice-options:fb-force-5245
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:l1DJUKwER5HG0+0Qzs6wEckmf7QXYSaYExxmYcR2
+a=rtpmap:100 VP8/90000
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=rtcp-fb:100 goog-remb
+
+[webrtc:203494] (webrtcvoiceengine.cc:1057): webrtc: SetREDStatus() RED is not supported (error=8003)
+[webrtc:203514] (rtp_packet_history.cc:44): Purging packet history in order to re-set status.
+[MultiwayConnection:203533] ICE connection state changed to 1
+[Conference:203534] RingUsers: adding participant for ring... 1385504935
+[GraphApiMultiwaySenderBase:203536] RingUsers: session id = cnRjczpmcmN8UEVFUjoxMzg1NTA0OTM1OjEwMDAyMzI0MTc0MjM2MHx4RUlLQWRDVwZDZD
+[GraphApiMultiwaySenderBase:203536] RingUsers: number of targets = 1
+[GraphApiMultiwaySenderBase:203536] RingUsers: first target id = 1385504935
+[MultiwayRingUsersResponse:203604] MultiwayRingUsersResponse::deserialize: response object field "successfully_rang_target_ids" was not a string. Value is: [ "1385504935" ]
+
+[MultiwayConnection:203606] ICE connection state changed to 2
+[MultiwayConnection:203606] ICE connection state changed to 3
+[MultiwayConnection:203606] Changing state from 2 to 3
+[RTI:203746] Could not find conference with id: 0
+[Conference:204525] New participant states fetched of size.. 1.
+[Conference:205525] New participant states fetched of size.. 2.
+[Conference:205525] Known participant call state: 1385504935 - RINGING
+[Conference:206525] New participant states fetched of size.. 1.
+[Conference:207528] New participant states fetched of size.. 2.
+[Conference:207528] Known participant call state: 1385504935 - RINGING
+[Conference:208523] New participant states fetched of size.. 1.
+[Conference:209526] New participant states fetched of size.. 2.
+[Conference:209526] Known participant call state: 1385504935 - RINGING
+[Conference:210524] New participant states fetched of size.. 1.
+[Conference:211538] New participant states fetched of size.. 2.
+[Conference:211538] Known participant call state: 1385504935 - RINGING
+[Conference:212526] New participant states fetched of size.. 1.
+[Conference:213569] New participant states fetched of size.. 2.
+[Conference:213569] Known participant call state: 1385504935 - RINGING
+[Conference:214535] New participant states fetched of size.. 1.
+[Conference:215539] New participant states fetched of size.. 2.
+[Conference:215539] Known participant call state: 1385504935 - CONNECTING
+[Conference:216542] New participant states fetched of size.. 1.
+[webrtc:217387] (rtp_packet_history.cc:44): Purging packet history in order to re-set status.
+[webrtc:217398] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217448] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217465] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[Conference:217546] New participant states fetched of size.. 2.
+[Conference:217546] Known participant call state: 1385504935 - CONNECTED
+[webrtc:217551] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217626] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217708] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217793] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217888] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:217936] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218046] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218076] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218132] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218210] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218251] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218337] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218384] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218478] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218521] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[Conference:218538] New participant states fetched of size.. 1.
+[webrtc:218564] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218610] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218702] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218753] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218833] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218875] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218960] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:218993] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219082] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219155] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219195] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219291] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219332] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219383] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219480] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219527] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219577] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[Conference:219585] New participant states fetched of size.. 2.
+[Conference:219586] Known participant call state: 1385504935 - CONNECTED
+[webrtc:219634] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219748] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219808] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219865] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219944] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:219996] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220064] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220126] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220193] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220259] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220328] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220391] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220462] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220524] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[Conference:220540] New participant states fetched of size.. 1.
+[webrtc:220591] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220656] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220724] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220790] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220857] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220923] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:220990] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221057] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221122] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221189] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221260] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221324] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221390] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221457] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221523] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[Conference:221539] New participant states fetched of size.. 2.
+[Conference:221540] Known participant call state: 1385504935 - CONNECTED
+[webrtc:221589] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221657] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221723] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221877] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221877] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221905] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:221965] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222023] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222081] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222181] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222233] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222290] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222381] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222431] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222475] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[Conference:222539] New participant states fetched of size.. 1.
+[webrtc:222557] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222599] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222683] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222766] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222807] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222891] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:222944] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223043] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223077] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223175] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223226] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223288] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223343] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223403] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223462] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[MultiwayConnection:223531] Updated remote SDP:
+v=0
+o=- 8326298576816262627 3 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=ice-lite
+a=group:BUNDLE audio video
+a=msid-semantic: WMS 1385504935:gwqUI
+m=audio 40003 RTP/SAVPF 103
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:6K2JHVM3UAvMJMl7
+a=ice-pwd:KLtjfNpKy45pQHgoNCPkG3U+
+a=ice-options:fb-force-5245
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:l1DJUKwER5HG0+0Qzs6wEckmf7QXYSaYExxmYcR2
+a=rtpmap:103 ISAC/16000
+a=ssrc:1337109774 cname:1385504935:gwqUI
+a=ssrc:1337109774 msid:1385504935:gwqUI 16830074981111595928
+a=ssrc:1337109774 mslabel:1385504935:gwqUI
+a=ssrc:1337109774 label:16830074981111595928
+m=video 40003 RTP/SAVPF 100
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:6K2JHVM3UAvMJMl7
+a=ice-pwd:KLtjfNpKy45pQHgoNCPkG3U+
+a=ice-options:fb-force-5245
+a=mid:video
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:l1DJUKwER5HG0+0Qzs6wEckmf7QXYSaYExxmYcR2
+a=rtpmap:100 VP8/90000
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=rtcp-fb:100 goog-remb
+a=ssrc:3845613036 cname:1385504935:gwqUI
+a=ssrc:3845613036 msid:1385504935:gwqUI 13278191576872740529
+a=ssrc:3845613036 mslabel:1385504935:gwqUI
+a=ssrc:3845613036 label:13278191576872740529
+
+[webrtc:223538] (mediasession.cc:376): Duplicate id found. Reassigning from 101 to 125
+[webrtc:223539] (statscollector.cc:921): The SSRC 1337109774 is not associated with a receiving track
+[webrtc:223539] (statscollector.cc:921): The SSRC 3845613036 is not associated with a receiving track
+[Conference:223574] New participant states fetched of size.. 2.
+[Conference:223574] Known participant call state: 1385504935 - CONNECTED
+[webrtc:223574] (webrtcvoiceengine.cc:1057): webrtc: SetREDStatus() RED is not supported (error=8003)
+[webrtc:223575] (webrtcvideoengine2.cc:2315): VideoReceiveStream not connected to a VideoSink.
+[webrtc:223607] (rtp_packet_history.cc:44): Purging packet history in order to re-set status.
+[HasVoiceData:223750] Incoming sample rate is different, adjusting from 48000 to 16000
+[Conference:224541] New participant states fetched of size.. 1.
+[Conference:225539] New participant states fetched of size.. 2.
+[Conference:225540] Known participant call state: 1385504935 - CONNECTED
+[Conference:226542] New participant states fetched of size.. 1.
+[webrtc:227518] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:227580] New participant states fetched of size.. 2.
+[Conference:227580] Known participant call state: 1385504935 - CONNECTED
+[Conference:228543] New participant states fetched of size.. 1.
+[webrtc:228568] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[webrtc:228888] (srtpfilter.cc:585): Failed to unprotect SRTP packet, err=9
+[webrtc:228889] (channel.cc:701): Failed to unprotect video RTP packet: size=251, seqnum=26713, SSRC=3845613036
+[Conference:229548] New participant states fetched of size.. 2.
+[Conference:229548] Known participant call state: 1385504935 - CONNECTED
+[Conference:230540] New participant states fetched of size.. 1.
+[Conference:231550] New participant states fetched of size.. 2.
+[Conference:231551] Known participant call state: 1385504935 - CONNECTED
+[webrtc:231870] (srtpfilter.cc:585): Failed to unprotect SRTP packet, err=9
+[webrtc:231870] (channel.cc:701): Failed to unprotect video RTP packet: size=422, seqnum=26757, SSRC=3845613036
+[webrtc:232264] (srtpfilter.cc:585): Failed to unprotect SRTP packet, err=9
+[webrtc:232265] (channel.cc:701): Failed to unprotect video RTP packet: size=469, seqnum=26763, SSRC=3845613036
+[Conference:232540] New participant states fetched of size.. 1.
+[Conference:233548] New participant states fetched of size.. 2.
+[Conference:233548] Known participant call state: 1385504935 - CONNECTED
+[Conference:234550] New participant states fetched of size.. 1.
+[Conference:235549] New participant states fetched of size.. 2.
+[Conference:235549] Known participant call state: 1385504935 - CONNECTED
+[Conference:236553] New participant states fetched of size.. 1.
+[Conference:237550] New participant states fetched of size.. 2.
+[Conference:237551] Known participant call state: 1385504935 - CONNECTED
+[Conference:238554] New participant states fetched of size.. 1.
+[Conference:239550] New participant states fetched of size.. 2.
+[Conference:239550] Known participant call state: 1385504935 - CONNECTED
+[webrtc:240242] (srtpfilter.cc:585): Failed to unprotect SRTP packet, err=9
+[webrtc:240242] (channel.cc:701): Failed to unprotect video RTP packet: size=278, seqnum=26880, SSRC=3845613036
+[Conference:240550] New participant states fetched of size.. 1.
+[Conference:241569] New participant states fetched of size.. 2.
+[Conference:241569] Known participant call state: 1385504935 - CONNECTED
+[webrtc:241607] (webrtcsession.cc:1228): SetAudioSend: No audio channel exists.
+[webrtc:241608] (webrtcsession.cc:1265): Video not used in this call.
+[webrtc:241608] (webrtcsession.cc:1300): SetVideoSend: No video channel exists.
+[webrtc:241608] (webrtcsession.cc:1211): SetAudioPlayout: No audio channel exists.
+[webrtc:241608] (webrtcsession.cc:1284): SetVideoPlayout: No video channel exists.
+[Conference:242553] New participant states fetched of size.. 1.
+[Conference:244573] New participant states fetched of size.. 1.
+[Conference:246554] New participant states fetched of size.. 1.
+[Conference:248555] New participant states fetched of size.. 1.
+[Conference:250557] New participant states fetched of size.. 1.
+[Conference:252557] New participant states fetched of size.. 1.
+[Conference:254559] New participant states fetched of size.. 1.
+[Conference:256561] New participant states fetched of size.. 1.
+[Conference:258560] New participant states fetched of size.. 1.
+[Conference:260563] New participant states fetched of size.. 1.
+[Conference:262561] New participant states fetched of size.. 1.
+[Conference:264562] New participant states fetched of size.. 1.
+[Conference:266564] New participant states fetched of size.. 1.
+[Conference:268561] New participant states fetched of size.. 1.
+[Conference:270566] New participant states fetched of size.. 1.
+[Conference:272565] New participant states fetched of size.. 1.
+[Conference:274567] New participant states fetched of size.. 1.
+[Conference:276571] New participant states fetched of size.. 1.
+[Conference:278567] New participant states fetched of size.. 1.
+[Conference:280567] New participant states fetched of size.. 1.
+[Conference:282569] New participant states fetched of size.. 1.
+[Conference:284567] New participant states fetched of size.. 1.
+[Conference:286571] New participant states fetched of size.. 1.
+[Conference:288568] New participant states fetched of size.. 1.
+[Conference:290569] New participant states fetched of size.. 1.
+[webrtc:291226] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:292572] New participant states fetched of size.. 1.
+[Conference:294571] New participant states fetched of size.. 1.
+[Conference:296574] New participant states fetched of size.. 1.
+[Conference:298573] New participant states fetched of size.. 1.
+[webrtc:299872] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:300574] New participant states fetched of size.. 1.
+[Conference:302575] New participant states fetched of size.. 1.
+[Conference:304574] New participant states fetched of size.. 1.
+[Conference:306576] New participant states fetched of size.. 1.
+[Conference:308574] New participant states fetched of size.. 1.
+[Conference:310580] New participant states fetched of size.. 1.
+[Conference:312577] New participant states fetched of size.. 1.
+[Conference:314578] New participant states fetched of size.. 1.
+[Conference:316580] New participant states fetched of size.. 1.
+[Conference:318581] New participant states fetched of size.. 1.
+[Conference:320584] New participant states fetched of size.. 1.
+[Conference:322580] New participant states fetched of size.. 1.
+[Conference:324584] New participant states fetched of size.. 1.
+[Conference:326583] New participant states fetched of size.. 1.
+[Conference:328590] New participant states fetched of size.. 1.
+[Conference:330584] New participant states fetched of size.. 1.
+[Conference:332587] New participant states fetched of size.. 1.
+[Conference:334588] New participant states fetched of size.. 1.
+[Conference:336600] New participant states fetched of size.. 1.
+[webrtc:338492] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:338585] New participant states fetched of size.. 1.
+[webrtc:339544] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:340589] New participant states fetched of size.. 1.
+[Conference:342590] New participant states fetched of size.. 1.
+[Conference:344587] New participant states fetched of size.. 1.
+[Conference:346590] New participant states fetched of size.. 1.
+[Conference:348591] New participant states fetched of size.. 1.
+[Conference:350589] New participant states fetched of size.. 1.
+[webrtc:351782] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:352595] New participant states fetched of size.. 1.
+[webrtc:352835] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[webrtc:353895] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:354593] New participant states fetched of size.. 1.
+[Conference:356598] New participant states fetched of size.. 1.
+[Conference:358596] New participant states fetched of size.. 1.
+[Conference:360596] New participant states fetched of size.. 1.
+[Conference:362593] New participant states fetched of size.. 1.
+[Conference:364598] New participant states fetched of size.. 1.
+[Conference:366598] New participant states fetched of size.. 1.
+[webrtc:366804] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:368598] New participant states fetched of size.. 1.
+[webrtc:369052] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:370699] New participant states fetched of size.. 1.
+[Conference:372599] New participant states fetched of size.. 1.
+[Conference:374602] New participant states fetched of size.. 1.
+[Conference:376600] New participant states fetched of size.. 1.
+[Conference:378604] New participant states fetched of size.. 1.
+[Conference:380603] New participant states fetched of size.. 1.
+[Conference:382607] New participant states fetched of size.. 1.
+[Conference:384603] New participant states fetched of size.. 1.
+[Conference:386608] New participant states fetched of size.. 1.
+[Conference:388606] New participant states fetched of size.. 1.
+[Conference:390606] New participant states fetched of size.. 1.
+[Conference:392610] New participant states fetched of size.. 1.
+[Conference:394608] New participant states fetched of size.. 1.
+[Conference:396609] New participant states fetched of size.. 1.
+[Conference:398615] New participant states fetched of size.. 1.
+[Conference:401682] New participant states fetched of size.. 1.
+[Conference:402613] New participant states fetched of size.. 1.
+[Conference:404613] New participant states fetched of size.. 1.
+[Conference:406615] New participant states fetched of size.. 1.
+[Conference:408615] New participant states fetched of size.. 1.
+[Conference:410616] New participant states fetched of size.. 1.
+[Conference:412618] New participant states fetched of size.. 1.
+[Conference:414618] New participant states fetched of size.. 1.
+[Conference:416618] New participant states fetched of size.. 1.
+[Conference:418617] New participant states fetched of size.. 1.
+[Conference:420620] New participant states fetched of size.. 1.
+[Conference:422620] New participant states fetched of size.. 1.
+[Conference:424620] New participant states fetched of size.. 1.
+[Conference:426619] New participant states fetched of size.. 1.
+[webrtc:426972] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:428620] New participant states fetched of size.. 1.
+[Conference:430624] New participant states fetched of size.. 1.
+[Conference:432624] New participant states fetched of size.. 1.
+[Conference:434621] New participant states fetched of size.. 1.
+[Conference:436628] New participant states fetched of size.. 1.
+[Conference:438624] New participant states fetched of size.. 1.
+[Conference:440633] New participant states fetched of size.. 1.
+[Conference:442630] New participant states fetched of size.. 1.
+[Conference:444630] New participant states fetched of size.. 1.
+[Conference:446627] New participant states fetched of size.. 1.
+[Conference:448627] New participant states fetched of size.. 1.
+[Conference:450628] New participant states fetched of size.. 1.
+[Conference:452634] New participant states fetched of size.. 1.
+[Conference:454631] New participant states fetched of size.. 1.
+[Conference:456629] New participant states fetched of size.. 1.
+[Conference:458629] New participant states fetched of size.. 1.
+[Conference:460634] New participant states fetched of size.. 1.
+[webrtc:461215] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:462633] New participant states fetched of size.. 1.
+[webrtc:463833] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:464630] New participant states fetched of size.. 1.
+[Conference:466633] New participant states fetched of size.. 1.
+[Conference:468639] New participant states fetched of size.. 1.
+[Conference:470636] New participant states fetched of size.. 1.
+[Conference:472636] New participant states fetched of size.. 1.
+[Conference:474636] New participant states fetched of size.. 1.
+[Conference:476640] New participant states fetched of size.. 1.
+[Conference:478642] New participant states fetched of size.. 1.
+[Conference:480638] New participant states fetched of size.. 1.
+[Conference:482640] New participant states fetched of size.. 1.
+[Conference:484639] New participant states fetched of size.. 1.
+[Conference:486641] New participant states fetched of size.. 1.
+[webrtc:488226] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:488642] New participant states fetched of size.. 1.
+[webrtc:489271] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:490641] New participant states fetched of size.. 1.
+[Conference:492642] New participant states fetched of size.. 1.
+[webrtc:493922] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:494646] New participant states fetched of size.. 1.
+[Conference:496645] New participant states fetched of size.. 1.
+[Conference:498646] New participant states fetched of size.. 1.
+[Conference:500645] New participant states fetched of size.. 1.
+[Conference:502651] New participant states fetched of size.. 1.
+[webrtc:504453] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:504645] New participant states fetched of size.. 1.
+[Conference:506721] New participant states fetched of size.. 1.
+[Conference:508646] New participant states fetched of size.. 1.
+[Conference:510649] New participant states fetched of size.. 1.
+[Conference:512725] New participant states fetched of size.. 1.
+[Conference:514648] New participant states fetched of size.. 1.
+[Conference:516666] New participant states fetched of size.. 1.
+[Conference:518683] New participant states fetched of size.. 1.
+[Conference:520651] New participant states fetched of size.. 1.
+[Conference:522655] New participant states fetched of size.. 1.
+[Conference:524656] New participant states fetched of size.. 1.
+[Conference:526654] New participant states fetched of size.. 1.
+[Conference:528655] New participant states fetched of size.. 1.
+[Conference:530657] New participant states fetched of size.. 1.
+[Conference:532657] New participant states fetched of size.. 1.
+[Conference:534658] New participant states fetched of size.. 1.
+[Conference:536658] New participant states fetched of size.. 1.
+[Conference:538683] New participant states fetched of size.. 1.
+[Conference:540663] New participant states fetched of size.. 1.
+[Conference:542662] New participant states fetched of size.. 1.
+[Conference:544664] New participant states fetched of size.. 1.
+[Conference:546662] New participant states fetched of size.. 1.
+[Conference:548660] New participant states fetched of size.. 1.
+[Conference:550664] New participant states fetched of size.. 1.
+[Conference:552663] New participant states fetched of size.. 1.
+[Conference:554665] New participant states fetched of size.. 1.
+[Conference:556663] New participant states fetched of size.. 1.
+[Conference:558665] New participant states fetched of size.. 1.
+[webrtc:560445] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:560663] New participant states fetched of size.. 1.
+[Conference:562666] New participant states fetched of size.. 1.
+[Conference:564669] New participant states fetched of size.. 1.
+[webrtc:565849] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:566669] New participant states fetched of size.. 1.
+[Conference:568671] New participant states fetched of size.. 1.
+[Conference:570673] New participant states fetched of size.. 1.
+[webrtc:571850] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:572668] New participant states fetched of size.. 1.
+[Conference:574669] New participant states fetched of size.. 1.
+[Conference:576669] New participant states fetched of size.. 1.
+[Conference:578674] New participant states fetched of size.. 1.
+[Conference:580684] New participant states fetched of size.. 1.
+[Conference:582671] New participant states fetched of size.. 1.
+[Conference:584674] New participant states fetched of size.. 1.
+[Conference:586677] New participant states fetched of size.. 1.
+[Conference:588670] New participant states fetched of size.. 1.
+[Conference:590674] New participant states fetched of size.. 1.
+[Conference:592673] New participant states fetched of size.. 1.
+[Conference:594675] New participant states fetched of size.. 1.
+[Conference:596673] New participant states fetched of size.. 1.
+[Conference:598676] New participant states fetched of size.. 1.
+[Conference:600676] New participant states fetched of size.. 1.
+[Conference:602678] New participant states fetched of size.. 1.
+[Conference:604677] New participant states fetched of size.. 1.
+[Conference:606681] New participant states fetched of size.. 1.
+[Conference:608681] New participant states fetched of size.. 1.
+[Conference:610683] New participant states fetched of size.. 1.
+[Conference:612685] New participant states fetched of size.. 1.
+[Conference:614685] New participant states fetched of size.. 1.
+[Conference:616685] New participant states fetched of size.. 1.
+[Conference:618684] New participant states fetched of size.. 1.
+[Conference:620684] New participant states fetched of size.. 1.
+[Conference:622684] New participant states fetched of size.. 1.
+[webrtc:622770] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:624686] New participant states fetched of size.. 1.
+[Conference:626687] New participant states fetched of size.. 1.
+[Conference:628696] New participant states fetched of size.. 1.
+[Conference:630690] New participant states fetched of size.. 1.
+[Conference:632689] New participant states fetched of size.. 1.
+[Conference:634690] New participant states fetched of size.. 1.
+[webrtc:635149] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[webrtc:636210] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:636690] New participant states fetched of size.. 1.
+[Conference:638691] New participant states fetched of size.. 1.
+[Conference:640691] New participant states fetched of size.. 1.
+[Conference:642695] New participant states fetched of size.. 1.
+[Conference:644693] New participant states fetched of size.. 1.
+[Conference:646694] New participant states fetched of size.. 1.
+[Conference:648695] New participant states fetched of size.. 1.
+[Conference:650701] New participant states fetched of size.. 1.
+[Conference:652706] New participant states fetched of size.. 1.
+[Conference:654697] New participant states fetched of size.. 1.
+[Conference:656697] New participant states fetched of size.. 1.
+[Conference:658697] New participant states fetched of size.. 1.
+[Conference:660699] New participant states fetched of size.. 1.
+[webrtc:662025] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:662702] New participant states fetched of size.. 1.
+[webrtc:663086] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:664703] New participant states fetched of size.. 1.
+[Conference:666701] New participant states fetched of size.. 1.
+[Conference:668702] New participant states fetched of size.. 1.
+[Conference:670704] New participant states fetched of size.. 1.
+[Conference:672702] New participant states fetched of size.. 1.
+[Conference:674702] New participant states fetched of size.. 1.
+[Conference:676701] New participant states fetched of size.. 1.
+[webrtc:676986] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[webrtc:678045] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:678704] New participant states fetched of size.. 1.
+[webrtc:680702] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:680707] New participant states fetched of size.. 1.
+[Conference:682705] New participant states fetched of size.. 1.
+[Conference:684732] New participant states fetched of size.. 1.
+[webrtc:685855] (webrtcvoiceengine.cc:1057): webrtc: SetRecordingChannel() unable to set the recording channel (error=10028)
+[Conference:686707] New participant states fetched of size.. 1.
+[Conference:688731] New participant states fetched of size.. 1.
+[Conference:690708] New participant states fetched of size.. 1.
+[Conference:692708] New participant states fetched of size.. 1.
+[Conference:694712] New participant states fetched of size.. 1.
+[Conference:696711] New participant states fetched of size.. 1.
+[Conference:698711] New participant states fetched of size.. 1.
+[Conference:700711] New participant states fetched of size.. 1.
+[Conference:702712] New participant states fetched of size.. 1.
+[Conference:704712] New participant states fetched of size.. 1.
+[Conference:706712] New participant states fetched of size.. 1.
+[Conference:708721] New participant states fetched of size.. 1.

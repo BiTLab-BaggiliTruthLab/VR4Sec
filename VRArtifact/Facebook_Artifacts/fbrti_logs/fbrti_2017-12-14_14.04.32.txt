@@ -1,0 +1,148 @@
+[FBNS:0] ClientImpl.cpp:164 FBNS: Trying user auth
+[FBNSNotificationHandler:267] Push token: {"k":"eyJwbiI6ImNvbS5vY3VsdXMucGxhdGZvcm0iLCJkaSI6IjgyNTlmODRhLWJiYmEtNGNlZS1hYzc1LTBjZTk3ZWM4ZTJlYyIsImFpIjo1NjczMTAyMDM0MTUwNTIsImNrIjoiNzY0Mzc3MzIxNjI4MjQ0In0=","v":0,"t":"fbns-b64"}
+[MultiwayConnection:1066] Changing state from 0 to 1
+[webrtc:1077] (webrtcpeerconnection.cpp:797): Thread invoked me
+[webrtc:1078] (webrtcpeerconnection.cpp:174): Starting capture
+[webrtc:1079] (mediasession.cc:376): Duplicate id found. Reassigning from 101 to 125
+[MultiwayConnection:1084] Offer:
+v=0
+o=- 8520884416948109875 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE audio video
+a=msid-semantic: WMS ovr_voip
+m=audio 9 RTP/SAVPF 111 103
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:7EOz4RGwIvyro4H+
+a=ice-pwd:qJOlZ/JLK9iDVS/LAsX/UKow
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:0LpWy1GX8HTkcAIr8pyhU1IotGIj+QVVN5LN4ufy
+a=rtpmap:111 opus/48000/2
+a=fmtp:111 maxaveragebitrate=16000; useinbandfec=1
+a=rtpmap:103 isac/16000
+a=ssrc:3670886138 cname:AR75EVXri70bagQD
+a=ssrc:3670886138 msid:ovr_voip 1946645632223448081
+a=ssrc:3670886138 mslabel:ovr_voip
+a=ssrc:3670886138 label:1946645632223448081
+m=video 9 RTP/SAVPF 100 101 107 116 117
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:7EOz4RGwIvyro4H+
+a=ice-pwd:qJOlZ/JLK9iDVS/LAsX/UKow
+a=mid:video
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:4 urn:3gpp:video-orientation
+a=sendrecv
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:0LpWy1GX8HTkcAIr8pyhU1IotGIj+QVVN5LN4ufy
+a=rtpmap:100 VP8/90000
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=rtcp-fb:100 goog-remb
+a=rtcp-fb:100 transport-cc
+a=rtpmap:101 VP9/90000
+a=rtcp-fb:101 ccm fir
+a=rtcp-fb:101 nack
+a=rtcp-fb:101 nack pli
+a=rtcp-fb:101 goog-remb
+a=rtcp-fb:101 transport-cc
+a=rtpmap:107 H264/90000
+a=rtcp-fb:107 ccm fir
+a=rtcp-fb:107 nack
+a=rtcp-fb:107 nack pli
+a=rtcp-fb:107 goog-remb
+a=rtcp-fb:107 transport-cc
+a=rtpmap:116 red/90000
+a=rtpmap:117 ulpfec/90000
+a=ssrc:1380249332 cname:AR75EVXri70bagQD
+a=ssrc:1380249332 msid:ovr_voip 11406099438978692744
+a=ssrc:1380249332 mslabel:ovr_voip
+a=ssrc:1380249332 label:11406099438978692744
+
+[webrtc:1098] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1098] (p2ptransportchannel.cc:457): Jingle:Port[0000000094236FE0:audio:1:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1099] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1099] (p2ptransportchannel.cc:457): Jingle:Port[00000000D239DCF0:audio:2:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1100] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1100] (p2ptransportchannel.cc:457): Jingle:Port[00000000D239EE30:video:1:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1100] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1101] (p2ptransportchannel.cc:457): Jingle:Port[00000000D239E9E0:video:2:0::Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1199] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1200] (p2ptransportchannel.cc:457): Jingle:Port[00000000D278FAC0:audio:1:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1200] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1201] (p2ptransportchannel.cc:457): Jingle:Port[00000000D278FE70:audio:2:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1201] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1201] (p2ptransportchannel.cc:457): Jingle:Port[00000000D2791840:video:1:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[webrtc:1202] (physicalsocketserver.cc:562): Socket::OPT_DSCP not supported.
+[webrtc:1202] (p2ptransportchannel.cc:457): Jingle:Port[00000000D278E850:video:2:0:local:Net[Realtek:10.2.33.x/32:Unknown]]: SetOption(5, 0) failed: 0
+[MultiwayConnection:1296] Changing state from 1 to 2
+[MultiwayConnection:1296] Connection id: cnRjYzpmcmN8MTAwMDIzMjQxNzQyMzYwfDg1MjA4ODQ0MTY5NDgxMDk4NzV8OTcyNjMxMzU5NDc5MjIwfHx8ODUyMDg4NDQxNjk0ODEwOTg3NXxmcmN8U09DSUFMX1ZASX1JPT006MTIwNjk5Njg4NzE0NzU1fERlS21HSG5N
+[MultiwayConnection:1296] Answer:
+v=0
+o=- 4741713151127464112 1 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=ice-lite
+a=group:BUNDLE audio video
+a=msid-semantic: WMS
+m=audio 40003 RTP/SAVPF 111
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=x-google-flag:conference
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:Aa4W7NK2YYyI1xEb
+a=ice-pwd:YmbXwm8n94UIwyarkd0BcoMr
+a=ice-options:fb-force-5245
+a=mid:audio
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=recvonly
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:118Lkbw5cOefW9hmarM9nVoFpUZFVLLy0MDOqCce
+a=rtpmap:111 opus/48000/2
+a=fmtp:111 minptime=10
+m=video 40003 RTP/SAVPF 107
+c=IN IP4 31.13.71.54
+a=rtcp:9 IN IP4 0.0.0.0
+a=x-google-flag:conference
+a=candidate:2243151746 1 udp 2122260223 31.13.71.54 40003 typ host generation 0
+a=candidate:3408935794 1 tcp 1518280447 31.13.71.54 443 typ host tcptype passive generation 0
+a=candidate:3585028386 1 udp 2122262783 2a03:2880:f212:c0:face:b00c:0:553e 40003 typ host generation 0
+a=candidate:2603404754 1 tcp 1518283007 2a03:2880:f212:c0:face:b00c:0:553e 443 typ host tcptype passive generation 0
+a=ice-ufrag:Aa4W7NK2YYyI1xEb
+a=ice-pwd:YmbXwm8n94UIwyarkd0BcoMr
+a=ice-options:fb-force-5245
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:118Lkbw5cOefW9hmarM9nVoFpUZFVLLy0MDOqCce
+a=rtpmap:107 H264/90000
+a=rtcp-fb:107 ccm fir
+a=rtcp-fb:107 nack
+a=rtcp-fb:107 goog-remb
+
+[webrtc:1305] (webrtcvoiceengine.cc:1057): webrtc: SetREDStatus() RED is not supported (error=8003)
+[webrtc:1307] (video_send_stream.cc:257): Transmitting payload type without picture ID usingNACK+FEC is a waste of bandwidth since FEC packets also have to be retransmitted. Disabling FEC.
+[webrtc:1308] (rtp_packet_history.cc:44): Purging packet history in order to re-set status.
+[MultiwayConnection:1310] ICE connection state changed to 1
+[MultiwayConnection:1345] ICE connection state changed to 2
+[MultiwayConnection:1345] ICE connection state changed to 3
+[MultiwayConnection:1345] Changing state from 2 to 3
+[webrtc:3301] (webrtcvoiceengine.cc:1057): webrtc: (audio_device_buffer.cc:292): High audio device delay reported (render=0 ms, capture=418 ms)
+[Conference:3337] New participant states fetched of size.. 1.
+[Conference:5338] New participant states fetched of size.. 1.
+[Conference:7334] New participant states fetched of size.. 1.
+[Conference:9371] New participant states fetched of size.. 1.
+[Conference:11369] New participant states fetched of size.. 1.
+[Conference:13336] New participant states fetched of size.. 1.
+[Conference:15334] New participant states fetched of size.. 1.
+[Conference:17336] New participant states fetched of size.. 1.

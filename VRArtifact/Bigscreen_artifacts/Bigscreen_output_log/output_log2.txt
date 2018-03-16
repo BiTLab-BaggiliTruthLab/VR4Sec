@@ -1,0 +1,352 @@
+(00:00:00:001): 12/12/2017 14:33
+(00:00:00:001): Initiating client with API version 2.05
+(00:00:00:001): Setting process priority.
+(00:00:00:001): Retrieved Unity D3D11 device.
+(00:00:00:001): ------------------ Setting up PCID 0.
+(00:00:00:013): Audio devices found: 3.
+(00:00:00:032): Device found: Headphones (Rift Audio) -- OUTPUT.
+(00:00:00:052): Device found: Speakers (Realtek High Definition Audio) -- OUTPUT.
+(00:00:00:073): Device found: Microphone (Rift Audio) -- INPUT.
+(00:00:00:155): Display device: PCI\VEN_10DE&DEV_1B81&SUBSYS_33011462&REV_A1.
+(00:00:00:155): 1 monitors found.
+(00:00:00:155): Using DXGI for capture? Yes.
+(00:00:00:157): 2 adapters found.
+(00:00:00:157): Adapter found: NVIDIA GeForce GTX 1070. Device ID 7041 is primary adapter.
+(00:00:00:157):     Found monitor: \\.\DISPLAY1, attached to desktop.
+(00:00:00:157):     New adapter detected, creating D3D device.
+(00:00:00:171): Adapter found: Microsoft Basic Render Driver. Device ID 140 is not primary adapter.
+(00:00:00:171): Rectifying desktop order.
+(00:00:00:175): ------------------ Setting up PCID 1.
+(00:00:02:745): Setting default Windows playback device to: Headphones (Rift Audio)
+(00:00:02:836): Setting up device index: 1 for desktop audio recording (likely just to initialize without error).
+(00:00:02:952): Setting desktop audio device for playback with name: Headphones (Rift Audio).
+(00:00:02:989): Setting up device index: 0 for desktop audio playback.
+(00:00:08:635): Refreshing audio device list.
+(00:00:08:655): Headphones (Rift Audio)
+(00:00:08:675): Speakers (Realtek High Definition Audio)
+(00:00:08:695): Microphone (Rift Audio)
+(00:00:08:708): Changing microphone input device to index: 2.
+(00:01:01:163): Changing microphone input device to index: 2.
+(00:01:01:209): -----------------------------
+(00:01:01:209): ----------------------------- Initiating connection with PCID: 0, SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:209): -----------------------------
+(00:01:01:230): Creating offer for SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:243): Signaling state change: kHaveLocalOffer.
+(00:01:01:250): PCID 0: An offer was generated successfully.
+(00:01:01:251): ICE gathering state change: kIceGatheringGathering.
+(00:01:01:529): PCID 0: Received remote answer from peer SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:529): PCID 0: Setting remote description for SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:533): Signaling state change: kStable.
+(00:01:01:553): PCID 0: Connection update: kIceConnectionChecking.
+(00:01:01:554): Received a remote desktop track for peer SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:554): Received a remote desktop audio track for peer SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:575): -----------------------------
+(00:01:01:575): ----------------------------- PCID 0: Received remote offer from peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:01:575): -----------------------------
+(00:01:01:577): Setting remote description for SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:01:579): Signaling state change: kHaveRemoteOffer.
+(00:01:01:581): Received a remote desktop track for peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:01:581): Received a remote desktop audio track for peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:01:582): Signaling state change: kStable.
+(00:01:01:587): PCID 0: An answer was generated successfully.
+(00:01:01:588): ICE gathering state change: kIceGatheringGathering.
+(00:01:01:660): PCID 0: Connection update: kIceConnectionChecking.
+(00:01:01:695): ICE gathering state change: kIceGatheringComplete.
+(00:01:01:828): ICE gathering state change: kIceGatheringComplete.
+(00:01:01:871): PCID 0: Connection update: kIceConnectionConnected.
+(00:01:01:872): ICE candidate generation has completed.
+(00:01:01:876): -----------------------------
+(00:01:01:876): ----------------------------- Initiating connection with PCID: 1, SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:876): -----------------------------
+(00:01:01:878): Creating offer for SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:01:880): Signaling state change: kHaveLocalOffer.
+(00:01:01:883): PCID 1: An offer was generated successfully.
+(00:01:01:885): ICE gathering state change: kIceGatheringGathering.
+(00:01:01:974): -----------------------------
+(00:01:01:974): ----------------------------- Initiating connection with PCID: 0, SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:01:974): -----------------------------
+(00:01:01:975): Creating offer for SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:01:977): Signaling state change: kHaveLocalOffer.
+(00:01:01:978): PCID 0: An offer was generated successfully.
+(00:01:01:979): ICE gathering state change: kIceGatheringGathering.
+(00:01:02:044): Remote frame CPU buffer created with size: 1280 x 720.
+(00:01:02:163): PCID 1: Received remote answer from peer SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:02:163): PCID 1: Setting remote description for SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:02:164): Signaling state change: kStable.
+(00:01:02:174): PCID 1: Connection update: kIceConnectionChecking.
+(00:01:02:175): Received a remote mic audio track for peer SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:02:184): PCID 0: Connection update: kIceConnectionConnected.
+(00:01:02:196): ICE candidate generation has completed.
+(00:01:02:218): PCID 0: Received remote answer from peer SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:218): PCID 0: Setting remote description for SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:222): Signaling state change: kStable.
+(00:01:02:225): PCID 0: Connection update: kIceConnectionChecking.
+(00:01:02:225): Received a remote desktop track for peer SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:225): Received a remote desktop audio track for peer SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:226): ICE gathering state change: kIceGatheringComplete.
+(00:01:02:230): PCID 0: Connection update: kIceConnectionConnected.
+(00:01:02:240): ICE candidate generation has completed.
+(00:01:02:243): -----------------------------
+(00:01:02:243): ----------------------------- Initiating connection with PCID: 1, SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:243): -----------------------------
+(00:01:02:244): Creating offer for SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:246): Signaling state change: kHaveLocalOffer.
+(00:01:02:246): PCID 1: An offer was generated successfully.
+(00:01:02:248): ICE gathering state change: kIceGatheringGathering.
+(00:01:02:317): ICE gathering state change: kIceGatheringComplete.
+(00:01:02:320): -----------------------------
+(00:01:02:320): ----------------------------- PCID 1: Received remote offer from peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:02:320): -----------------------------
+(00:01:02:322): Setting remote description for SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:02:323): Signaling state change: kHaveRemoteOffer.
+(00:01:02:324): Received a remote mic audio track for peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:02:325): Signaling state change: kStable.
+(00:01:02:326): PCID 1: An answer was generated successfully.
+(00:01:02:327): ICE gathering state change: kIceGatheringGathering.
+(00:01:02:363): Joining unreliable_data_channel for peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:02:363): Joining reliable_data_channel for peer SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:02:433): PCID 1: Connection update: kIceConnectionConnected.
+(00:01:02:441): ICE candidate generation has completed.
+(00:01:02:446): Changing desktop stream parameters to fps: 30, resolution constraint: 720.
+(00:01:02:447): Starting remote desktop stream.
+(00:01:02:447): Desktop streaming enabled.
+(00:01:02:448): Mic audio streaming enabled.
+(00:01:02:462): Remote desktop native texture set: 1280 x 720.
+(00:01:02:477): Remote frame CPU buffer created with size: 1920 x 1080.
+(00:01:02:563): Playing remote mic audio for SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:01:02:576): PCID 1: Received remote answer from peer SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:576): PCID 1: Setting remote description for SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:577): Signaling state change: kStable.
+(00:01:02:577): PCID 1: Connection update: kIceConnectionChecking.
+(00:01:02:578): Received a remote mic audio track for peer SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:580): Creating new local desktop CPU buffers for streaming at: 1280 x 720.
+(00:01:02:580): PCID 1: Connection update: kIceConnectionChecking.
+(00:01:02:582): ICE gathering state change: kIceGatheringComplete.
+(00:01:02:584): PCID 1: Connection update: kIceConnectionConnected.
+(00:01:02:588): Mic audio streaming enabled.
+(00:01:02:661): Playing remote mic audio for SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:01:02:710): ICE candidate generation has completed.
+(00:01:02:745): ICE gathering state change: kIceGatheringComplete.
+(00:01:02:898): Remote frame CPU buffer created with size: 1280 x 720.
+(00:01:02:923): Remote desktop native texture set: 1280 x 720.
+(00:01:03:100): PCID 1: Connection update: kIceConnectionConnected.
+(00:01:03:102): ICE candidate generation has completed.
+(00:01:03:104): Mic audio streaming enabled.
+(00:01:03:119): Remote desktop native texture set: 1920 x 1080.
+(00:01:03:133): Playing remote mic audio for SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:01:16:748): PCID 0: Connection update: kIceConnectionCompleted.
+(00:01:17:363): PCID 1: Connection update: kIceConnectionCompleted.
+(00:01:17:520): PCID 0: Connection update: kIceConnectionCompleted.
+(00:01:17:879): PCID 1: Connection update: kIceConnectionCompleted.
+(00:03:43:847): Call to close all connections.
+(00:03:43:847): Desktop streaming disabled.
+(00:03:43:847): Mic audio streaming disabled.
+(00:03:43:848): Desktop audio streaming disabled.
+(00:03:43:850): -----------------------------
+(00:03:43:850): ----------------------------- PCID: 0: Closing connection with SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:03:43:850): -----------------------------
+(00:03:43:850): -----------------------------
+(00:03:43:850): ----------------------------- PCID: 0: Closing connection with SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:03:43:850): -----------------------------
+(00:03:43:850): -----------------------------
+(00:03:43:850): ----------------------------- PCID: 0: Closing connection with SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:03:43:850): -----------------------------
+(00:03:43:850): -----------------------------
+(00:03:43:850): ----------------------------- PCID: 1: Closing connection with SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:03:43:850): -----------------------------
+(00:03:43:850): -----------------------------
+(00:03:43:850): ----------------------------- PCID: 1: Closing connection with SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:03:43:850): -----------------------------
+(00:03:43:850): -----------------------------
+(00:03:43:850): ----------------------------- PCID: 1: Closing connection with SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:03:43:850): -----------------------------
+(00:03:43:851): (00:03:43:851): Creating an orphan for PCID 0 with SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+Creating an orphan for PCID 1 with SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:03:43:852): PCID 1: Connection update: kIceConnectionClosed.
+(00:03:43:852): Signaling state change: kClosed.
+(00:03:43:852): PCID 0: Connection update: kIceConnectionClosed.
+(00:03:43:852): Signaling state change: kClosed.
+(00:03:43:866): Creating an orphan for PCID 1 with SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:03:43:867): PCID 1: Connection update: kIceConnectionClosed.
+(00:03:43:867): Signaling state change: kClosed.
+(00:03:43:869): Creating an orphan for PCID 0 with SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:03:43:870): PCID 0: Connection update: kIceConnectionClosed.
+(00:03:43:870): Signaling state change: kClosed.
+(00:03:43:877): Creating an orphan for PCID 1 with SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:03:43:878): PCID 1: Connection update: kIceConnectionClosed.
+(00:03:43:878): Signaling state change: kClosed.
+(00:03:43:894): Creating an orphan for PCID 0 with SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:03:43:894): PCID 0: Connection update: kIceConnectionClosed.
+(00:03:43:894): Signaling state change: kClosed.
+(00:03:45:469): Changing microphone input device to index: 2.
+(00:03:59:579): Removing an orphan from PCID 1 with SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:03:59:579): Removing an orphan from PCID 1 with SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:03:59:579): Removing an orphan from PCID 1 with SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:03:59:766): Removing an orphan from PCID 0 with SCID: d3789e1b-3a0a-118c-2f54-b2b453c6e9db.
+(00:03:59:766): Removing an orphan from PCID 0 with SCID: 0bf2c133-d243-b9c6-f9dc-d6cacc4a72d7.
+(00:03:59:767): Removing an orphan from PCID 0 with SCID: 760925ba-b4db-6008-8c21-cc738233eb37.
+(00:05:58:095): Changing microphone input device to index: 2.
+(00:05:58:412): -----------------------------
+(00:05:58:412): ----------------------------- PCID 0: Received remote offer from peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:58:412): -----------------------------
+(00:05:58:413): Setting remote description for SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:58:415): Signaling state change: kHaveRemoteOffer.
+(00:05:58:416): Received a remote desktop track for peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:58:416): Received a remote desktop audio track for peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:58:417): Signaling state change: kStable.
+(00:05:58:438): PCID 0: An answer was generated successfully.
+(00:05:58:440): ICE gathering state change: kIceGatheringGathering.
+(00:05:58:465): PCID 0: Connection update: kIceConnectionChecking.
+(00:05:58:747): ICE gathering state change: kIceGatheringComplete.
+(00:05:58:924): PCID 0: Connection update: kIceConnectionConnected.
+(00:05:58:932): ICE candidate generation has completed.
+(00:05:59:018): Joining unreliable_data_channel for peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:59:018): Joining reliable_data_channel for peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:59:056): -----------------------------
+(00:05:59:056): ----------------------------- PCID 1: Received remote offer from peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:59:057): -----------------------------
+(00:05:59:058): Setting remote description for SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:59:059): Signaling state change: kHaveRemoteOffer.
+(00:05:59:060): Received a remote mic audio track for peer SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:59:060): Signaling state change: kStable.
+(00:05:59:074): PCID 1: An answer was generated successfully.
+(00:05:59:076): ICE gathering state change: kIceGatheringGathering.
+(00:05:59:099): PCID 1: Connection update: kIceConnectionChecking.
+(00:05:59:492): ICE gathering state change: kIceGatheringComplete.
+(00:05:59:670): PCID 1: Connection update: kIceConnectionConnected.
+(00:05:59:680): ICE candidate generation has completed.
+(00:05:59:683): Changing desktop stream parameters to fps: 30, resolution constraint: 720.
+(00:05:59:683): Starting remote desktop stream.
+(00:05:59:683): Desktop streaming enabled.
+(00:05:59:684): Mic audio streaming enabled.
+(00:05:59:701): Playing remote mic audio for SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:05:59:711): Creating new local desktop CPU buffers for streaming at: 1280 x 720.
+(00:06:00:098): Remote frame CPU buffer created with size: 1280 x 720.
+(00:06:00:109): Remote desktop native texture set: 1280 x 720.
+(00:07:21:196): -----------------------------
+(00:07:21:196): ----------------------------- Initiating connection with PCID: 0, SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:21:196): -----------------------------
+(00:07:21:199): Creating offer for SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:21:209): Signaling state change: kHaveLocalOffer.
+(00:07:21:210): PCID 0: An offer was generated successfully.
+(00:07:21:211): ICE gathering state change: kIceGatheringGathering.
+(00:07:21:526): PCID 0: Received remote answer from peer SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:21:527): PCID 0: Setting remote description for SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:21:529): Signaling state change: kStable.
+(00:07:21:531): PCID 0: Connection update: kIceConnectionChecking.
+(00:07:21:531): Received a remote desktop track for peer SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:21:531): Received a remote desktop audio track for peer SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:21:886): ICE gathering state change: kIceGatheringComplete.
+(00:07:22:219): PCID 0: Connection update: kIceConnectionConnected.
+(00:07:22:230): ICE candidate generation has completed.
+(00:07:22:235): -----------------------------
+(00:07:22:235): ----------------------------- Initiating connection with PCID: 1, SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:22:235): -----------------------------
+(00:07:22:236): Creating offer for SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:22:240): Signaling state change: kHaveLocalOffer.
+(00:07:22:241): PCID 1: An offer was generated successfully.
+(00:07:22:242): ICE gathering state change: kIceGatheringGathering.
+(00:07:22:580): PCID 1: Received remote answer from peer SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:22:581): PCID 1: Setting remote description for SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:22:581): Signaling state change: kStable.
+(00:07:22:582): PCID 1: Connection update: kIceConnectionChecking.
+(00:07:22:582): Received a remote mic audio track for peer SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:22:917): ICE gathering state change: kIceGatheringComplete.
+(00:07:23:171): PCID 1: Connection update: kIceConnectionConnected.
+(00:07:23:181): ICE candidate generation has completed.
+(00:07:23:186): Mic audio streaming enabled.
+(00:07:23:198): Playing remote mic audio for SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:07:23:547): Remote frame CPU buffer created with size: 1920 x 1080.
+(00:07:23:565): Remote desktop native texture set: 1920 x 1080.
+(00:07:36:751): PCID 0: Connection update: kIceConnectionCompleted.
+(00:07:37:840): PCID 1: Connection update: kIceConnectionCompleted.
+(00:07:38:659): -----------------------------
+(00:07:38:659): ----------------------------- Initiating connection with PCID: 0, SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:659): -----------------------------
+(00:07:38:660): Creating offer for SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:664): Signaling state change: kHaveLocalOffer.
+(00:07:38:666): PCID 0: An offer was generated successfully.
+(00:07:38:678): ICE gathering state change: kIceGatheringGathering.
+(00:07:38:880): PCID 0: Received remote answer from peer SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:881): PCID 0: Setting remote description for SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:884): Signaling state change: kStable.
+(00:07:38:888): PCID 0: Connection update: kIceConnectionChecking.
+(00:07:38:888): Received a remote desktop track for peer SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:888): Received a remote desktop audio track for peer SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:890): ICE gathering state change: kIceGatheringComplete.
+(00:07:38:890): PCID 0: Connection update: kIceConnectionConnected.
+(00:07:38:890): PCID 0: Connection update: kIceConnectionCompleted.
+(00:07:38:890): PCID 0: Connection update: kIceConnectionConnected.
+(00:07:38:894): -----------------------------
+(00:07:38:894): ----------------------------- Initiating connection with PCID: 1, SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:894): -----------------------------
+(00:07:38:896): Creating offer for SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:38:901): Signaling state change: kHaveLocalOffer.
+(00:07:38:905): PCID 1: An offer was generated successfully.
+(00:07:38:906): ICE gathering state change: kIceGatheringGathering.
+(00:07:38:920): ICE candidate generation has completed.
+(00:07:39:118): PCID 1: Received remote answer from peer SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:39:119): PCID 1: Setting remote description for SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:39:120): Signaling state change: kStable.
+(00:07:39:121): PCID 1: Connection update: kIceConnectionChecking.
+(00:07:39:122): Received a remote mic audio track for peer SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:39:123): ICE gathering state change: kIceGatheringComplete.
+(00:07:39:128): PCID 1: Connection update: kIceConnectionConnected.
+(00:07:39:130): ICE candidate generation has completed.
+(00:07:39:133): Mic audio streaming enabled.
+(00:07:39:149): Playing remote mic audio for SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:07:39:447): Remote frame CPU buffer created with size: 1280 x 720.
+(00:07:39:465): Remote desktop native texture set: 1280 x 720.
+(00:07:54:180): PCID 0: Connection update: kIceConnectionCompleted.
+(00:07:54:422): PCID 1: Connection update: kIceConnectionCompleted.
+(00:13:05:216): Mic audio streaming disabled.
+(00:16:13:009): Setting default Windows playback device to: Speakers (Realtek High Definition Audio)
+(00:16:13:084): Setting up device index: 0 for desktop audio recording (likely just to initialize without error).
+(00:16:13:129): Shutting down client.
+(00:16:13:129): Desktop streaming disabled.
+(00:16:13:129): Mic audio streaming disabled.
+(00:16:13:131): Desktop audio streaming disabled.
+(00:16:13:132): ------------------ Shutting down PCID 1.
+(00:16:13:134): Closing existing connections.
+(00:16:13:134): PCID 1: Connection update: kIceConnectionClosed.
+(00:16:13:134): -----------------------------
+(00:16:13:134): ----------------------------- PCID 1: Connection broken with SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:16:13:134): -----------------------------
+(00:16:13:134): Signaling state change: kClosed.
+(00:16:13:244): PCID 1: Connection update: kIceConnectionClosed.
+(00:16:13:244): -----------------------------
+(00:16:13:244): ----------------------------- PCID 1: Connection broken with SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:16:13:244): -----------------------------
+(00:16:13:244): Signaling state change: kClosed.
+(00:16:13:354): PCID 1: Connection update: kIceConnectionClosed.
+(00:16:13:354): -----------------------------
+(00:16:13:354): ----------------------------- PCID 1: Connection broken with SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:16:13:354): -----------------------------
+(00:16:13:354): Signaling state change: kClosed.
+(00:16:13:484): Closing existing orphans.
+(00:16:13:484): Removing local tracks.
+(00:16:13:484): Terminating local audio.
+(00:16:13:484): Stopping threads.
+(00:16:13:486): ------------------ Shutting down PCID 0.
+(00:16:13:487): Closing existing connections.
+(00:16:13:487): PCID 0: Connection update: kIceConnectionClosed.
+(00:16:13:487): -----------------------------
+(00:16:13:487): ----------------------------- PCID 0: Connection broken with SCID: ecb1425e-a574-31c1-3e9b-5c9ff89e8124.
+(00:16:13:487): -----------------------------
+(00:16:13:487): Signaling state change: kClosed.
+(00:16:13:608): PCID 0: Connection update: kIceConnectionClosed.
+(00:16:13:608): -----------------------------
+(00:16:13:608): ----------------------------- PCID 0: Connection broken with SCID: fcabc61d-7fdc-9af3-5caa-6832d4c0fc0a.
+(00:16:13:608): -----------------------------
+(00:16:13:608): Signaling state change: kClosed.
+(00:16:13:732): PCID 0: Connection update: kIceConnectionClosed.
+(00:16:13:733): -----------------------------
+(00:16:13:733): ----------------------------- PCID 0: Connection broken with SCID: ef3e72d4-7538-612c-2e9f-1f5aa46c3790.
+(00:16:13:733): -----------------------------
+(00:16:13:733): Signaling state change: kClosed.
+(00:16:13:884): Closing existing orphans.
+(00:16:13:884): Removing local tracks.
+(00:16:13:885): Terminating local desktop and audio.
+(00:16:13:886): Stopping threads.
+(00:16:13:887): Resetting client memory.
+(00:16:13:887): Client has reset.

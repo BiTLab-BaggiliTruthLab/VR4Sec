@@ -1,0 +1,514 @@
+[ 2017-12-14 14:19:48 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:19:48 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:19:48 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:19:48 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:19:48 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:19:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:19:48 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:19:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:19:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:19:55 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:08 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:08 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:08 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:08 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:08 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:08 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:08 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:08 ][LOG]: Live streaming url: : rtmp://live-api.facebook.com:80/rtmp/131283470989710?ds=1&a=ATjFR6A4LoCCqonQ
+[ 2017-12-14 14:20:09 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:10 ][LOG]: last frame time: : 19966
+[ 2017-12-14 14:20:10 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:13 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:13 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:13 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:13 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:13 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:13 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:13 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:13 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:13 ][LOG]: last frame time: : 24932
+[ 2017-12-14 14:20:13 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:15 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:18 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:18 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:18 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:18 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:18 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:18 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:18 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:18 ][LOG]: last frame time: : 29898
+[ 2017-12-14 14:20:18 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:23 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:23 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:23 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:23 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:23 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:23 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:23 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:23 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:23 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:23 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:23 ][LOG]: last frame time: : 34864
+[ 2017-12-14 14:20:23 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:28 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:28 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:28 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:28 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:28 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:28 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:28 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:28 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:28 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:28 ][LOG]: last frame time: : 39830
+[ 2017-12-14 14:20:28 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:32 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:33 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:33 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:33 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:33 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:33 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:33 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:33 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:33 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:33 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:33 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:33 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:33 ][LOG]: last frame time: : 44796
+[ 2017-12-14 14:20:33 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:36 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:38 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:38 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:38 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:38 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:38 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:38 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:38 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:38 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:38 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:38 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:38 ][LOG]: last frame time: : 49762
+[ 2017-12-14 14:20:38 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:38 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:41 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:43 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:43 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:43 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:43 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:43 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:43 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:43 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:43 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:43 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:43 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:43 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:43 ][LOG]: last frame time: : 54728
+[ 2017-12-14 14:20:43 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:45 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:48 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:48 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:48 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:48 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:48 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:48 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:48 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:48 ][LOG]: last frame time: : 59694
+[ 2017-12-14 14:20:48 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:49 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:53 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:53 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:53 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:53 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:53 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:53 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:53 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:53 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:53 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:53 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:53 ][LOG]: last frame time: : 64660
+[ 2017-12-14 14:20:53 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:20:58 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:20:58 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:58 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:20:58 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:20:58 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:20:58 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:20:58 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:20:58 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:20:58 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:20:58 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:20:58 ][LOG]: last frame time: : 69626
+[ 2017-12-14 14:20:58 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:03 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:03 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:03 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:03 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:03 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:03 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:03 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:03 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:03 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:03 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:03 ][LOG]: last frame time: : 74592
+[ 2017-12-14 14:21:03 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:08 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:08 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:08 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:08 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:08 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:08 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:08 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:08 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:08 ][LOG]: last frame time: : 79558
+[ 2017-12-14 14:21:08 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:13 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:13 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:13 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:13 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:13 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:13 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:13 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:13 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:13 ][LOG]: last frame time: : 84524
+[ 2017-12-14 14:21:13 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:18 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:18 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:18 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:18 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:18 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:18 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:18 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:18 ][LOG]: last frame time: : 89490
+[ 2017-12-14 14:21:18 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:23 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:23 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:23 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:23 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:23 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:23 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:23 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:23 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:23 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:23 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:23 ][LOG]: last frame time: : 94456
+[ 2017-12-14 14:21:23 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:28 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:28 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:28 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:28 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:28 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:28 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:28 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:28 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:28 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:28 ][LOG]: last frame time: : 99422
+[ 2017-12-14 14:21:28 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:31 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:32 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:33 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:33 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:33 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:33 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:33 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:33 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:33 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:33 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:33 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:33 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:33 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:33 ][LOG]: last frame time: : 104388
+[ 2017-12-14 14:21:33 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:38 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:38 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:38 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:38 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:38 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:38 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:38 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:38 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:38 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:38 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:38 ][LOG]: last frame time: : 109354
+[ 2017-12-14 14:21:38 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:43 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:43 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:43 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:43 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:43 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:43 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:43 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:43 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:43 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:43 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:43 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:43 ][LOG]: last frame time: : 114320
+[ 2017-12-14 14:21:43 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:48 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:48 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:48 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:48 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:48 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:48 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:48 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:48 ][LOG]: last frame time: : 119286
+[ 2017-12-14 14:21:48 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:53 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:53 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:53 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:53 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:53 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:53 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:53 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:53 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:53 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:53 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:53 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:53 ][LOG]: last frame time: : 124252
+[ 2017-12-14 14:21:53 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:21:58 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:21:58 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:58 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:21:58 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:21:58 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:58 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:21:58 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:21:58 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:21:58 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:21:58 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:21:58 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:21:58 ][LOG]: last frame time: : 129218
+[ 2017-12-14 14:21:58 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:03 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:03 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:03 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:03 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:03 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:03 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:03 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:03 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:03 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:03 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:03 ][LOG]: last frame time: : 134184
+[ 2017-12-14 14:22:03 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:08 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:08 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:08 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:08 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:08 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:08 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:08 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:08 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:08 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:08 ][LOG]: last frame time: : 139150
+[ 2017-12-14 14:22:08 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:13 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:13 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:13 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:13 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:13 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:13 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:13 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:13 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:13 ][LOG]: last frame time: : 144116
+[ 2017-12-14 14:22:13 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:18 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:18 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:18 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:18 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:18 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:18 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:18 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:18 ][LOG]: last frame time: : 149082
+[ 2017-12-14 14:22:18 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:23 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:23 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:23 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:23 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:23 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:23 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:23 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:23 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:23 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:23 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:23 ][LOG]: last frame time: : 154048
+[ 2017-12-14 14:22:23 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:28 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:28 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:28 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:28 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:28 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:28 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:28 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:28 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:28 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:28 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:28 ][LOG]: last frame time: : 159014
+[ 2017-12-14 14:22:28 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:33 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:33 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:33 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:33 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:33 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:33 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:33 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:33 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:33 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:33 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:33 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:33 ][LOG]: last frame time: : 163980
+[ 2017-12-14 14:22:33 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:36 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:38 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:38 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:38 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:38 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:38 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:38 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:38 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:38 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:38 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:38 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:38 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:38 ][LOG]: last frame time: : 168946
+[ 2017-12-14 14:22:38 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:43 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:43 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:43 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:43 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:43 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:43 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:43 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:43 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:43 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:43 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:43 ][LOG]: last frame time: : 173912
+[ 2017-12-14 14:22:43 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:43 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:47 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:48 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:48 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:48 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:48 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:48 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:48 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:48 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:48 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:48 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:48 ][LOG]: last frame time: : 178878
+[ 2017-12-14 14:22:48 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:53 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:53 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:53 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:53 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:53 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:53 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:53 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:53 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:53 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:53 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:53 ][LOG]: last frame time: : 183844
+[ 2017-12-14 14:22:53 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:22:58 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:22:58 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:58 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:22:58 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:22:58 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:22:58 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:22:58 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:22:58 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:22:58 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:22:58 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:22:58 ][LOG]: last frame time: : 188810
+[ 2017-12-14 14:22:58 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:23:03 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:23:03 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:03 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:23:03 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:03 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:03 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:23:03 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:23:03 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:23:03 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:23:03 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:23:03 ][LOG]: last frame time: : 193776
+[ 2017-12-14 14:23:03 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:23:08 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:23:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:08 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:23:08 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:08 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:08 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:23:08 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:23:08 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:23:08 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:23:08 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:08 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:23:08 ][LOG]: last frame time: : 198742
+[ 2017-12-14 14:23:08 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:23:13 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:23:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:13 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:23:13 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:13 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:23:13 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:23:13 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:23:13 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:23:13 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:13 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:13 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:23:13 ][LOG]: last frame time: : 203708
+[ 2017-12-14 14:23:13 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:23:17 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:18 ][LOG]: Audio device name: : Microphone (Rift Audio)
+[ 2017-12-14 14:23:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:18 ][LOG]: Audio device name: : Headphones (Rift Audio)
+[ 2017-12-14 14:23:18 ][LOG]: Found VR audio device. We're using them as audio intput/output source
+[ 2017-12-14 14:23:18 ][LOG]: Video Codec info: NV_ENC_H264
+[ 2017-12-14 14:23:18 ][LOG]: Bitrate:: 5000000
+[ 2017-12-14 14:23:18 ][LOG]: Device type: DirectX 11
+[ 2017-12-14 14:23:18 ][LOG]: Set encode configurations successfully
+[ 2017-12-14 14:23:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:18 ][LOG]: Start to send video data to rtmp server
+[ 2017-12-14 14:23:18 ][LOG]: last frame time: : 208674
+[ 2017-12-14 14:23:18 ][LOG]: Sent video data to rtmp server
+[ 2017-12-14 14:23:18 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer
+[ 2017-12-14 14:23:20 ][LOG]: No data can be read from Microphone--IAudioCaptureClient::GetBuffer

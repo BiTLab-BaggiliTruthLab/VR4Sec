@@ -1,0 +1,2 @@
+location: \facebook-vr-facebookvr\FacebookSpaces_Data
+Details: The log contains the username and activity log.

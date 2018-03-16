@@ -1,0 +1,347 @@
+Mon Oct 02 2017 20:01:35.198 - //=====================================================================================================================
+Mon Oct 02 2017 20:01:35.198 - vrclient startup with PID=9676, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Mon Oct 02 2017 20:01:35.201 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Mon Oct 02 2017 20:01:35.201 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Mon Oct 02 2017 20:01:35.201 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Mon Oct 02 2017 20:01:35.201 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Mon Oct 02 2017 20:01:35.201 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Mon Oct 02 2017 20:01:35.202 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Mon Oct 02 2017 20:01:35.207 - Received success response from vrserver connect
+Mon Oct 02 2017 20:01:35.215 - Received success response from vrcompositor connect
+Mon Oct 02 2017 20:01:35.223 - Capturing Scene Focus
+Mon Oct 02 2017 20:01:36.568 - Screenshot: Hook Screenshot called with types:Mon Oct 02 2017 20:01:36.568 -  5Mon Oct 02 2017 20:01:36.568 - 
+Mon Oct 02 2017 20:01:36.577 - [Chaperone] Universe changed from 0 to 1477679345.
+Mon Oct 02 2017 20:01:37.145 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Mon Oct 02 2017 20:01:37.145 - Initializing CD3D11VRRenderer
+Mon Oct 02 2017 20:01:37.154 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Mon Oct 02 2017 20:01:37.154 - Initializing CD3D11VRRenderer
+Mon Oct 02 2017 20:01:37.165 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Mon Oct 02 2017 20:01:37.165 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Mon Oct 02 2017 20:01:37.165 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Mon Oct 02 2017 20:01:37.166 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Mon Oct 02 2017 20:01:37.166 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Mon Oct 02 2017 20:01:37.166 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Mon Oct 02 2017 20:01:37.263 - Screenshot: Hook Screenshot called with types:Mon Oct 02 2017 20:01:37.263 -  5Mon Oct 02 2017 20:01:37.263 - 
+Mon Oct 02 2017 20:01:38.755 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Mon Oct 02 2017 20:01:38.755 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Mon Oct 02 2017 20:01:38.878 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Mon Oct 02 2017 20:01:38.879 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Mon Oct 02 2017 20:01:39.436 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Mon Oct 02 2017 20:01:39.436 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Mon Oct 02 2017 20:02:52.003 - Screenshot: Hook Screenshot called with types:Mon Oct 02 2017 20:02:52.003 -  5Mon Oct 02 2017 20:02:52.003 - 
+Mon Oct 02 2017 20:09:46.812 - Screenshot: Hook Screenshot called with types:Mon Oct 02 2017 20:09:46.812 -  5Mon Oct 02 2017 20:09:46.812 - 
+Mon Oct 02 2017 20:10:03.081 - Screenshot: Hook Screenshot called with types:Mon Oct 02 2017 20:10:03.081 -  5Mon Oct 02 2017 20:10:03.081 - 
+Mon Oct 02 2017 20:10:29.370 - Screenshot: Hook Screenshot called with types:Mon Oct 02 2017 20:10:29.370 -  5Mon Oct 02 2017 20:10:29.370 - 
+Mon Oct 02 2017 20:11:14.850 - VR_Shutdown called
+Tue Oct 10 2017 17:46:23.875 - //=====================================================================================================================
+Tue Oct 10 2017 17:46:23.875 - vrclient startup with PID=7836, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Tue Oct 10 2017 17:46:23.877 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Tue Oct 10 2017 17:46:23.877 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Tue Oct 10 2017 17:46:23.877 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Tue Oct 10 2017 17:46:23.878 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Tue Oct 10 2017 17:46:23.878 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Tue Oct 10 2017 17:46:23.878 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Tue Oct 10 2017 17:46:23.887 - Received success response from vrserver connect
+Tue Oct 10 2017 17:46:23.894 - Received success response from vrcompositor connect
+Tue Oct 10 2017 17:46:23.903 - Capturing Scene Focus
+Tue Oct 10 2017 17:46:28.193 - Screenshot: Hook Screenshot called with types:Tue Oct 10 2017 17:46:28.193 -  5Tue Oct 10 2017 17:46:28.193 - 
+Tue Oct 10 2017 17:46:28.200 - [Chaperone] Universe changed from 0 to 1477679345.
+Tue Oct 10 2017 17:46:28.270 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Tue Oct 10 2017 17:46:28.270 - Initializing CD3D11VRRenderer
+Tue Oct 10 2017 17:46:28.282 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Tue Oct 10 2017 17:46:28.282 - Initializing CD3D11VRRenderer
+Tue Oct 10 2017 17:46:28.293 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Tue Oct 10 2017 17:46:28.293 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Tue Oct 10 2017 17:46:28.293 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Tue Oct 10 2017 17:46:28.294 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Tue Oct 10 2017 17:46:28.294 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Tue Oct 10 2017 17:46:28.294 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Tue Oct 10 2017 17:46:30.453 - Screenshot: Hook Screenshot called with types:Tue Oct 10 2017 17:46:30.453 -  5Tue Oct 10 2017 17:46:30.453 - 
+Tue Oct 10 2017 17:46:36.182 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Tue Oct 10 2017 17:46:36.182 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Tue Oct 10 2017 17:46:36.372 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Tue Oct 10 2017 17:46:36.372 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Tue Oct 10 2017 17:46:36.433 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Tue Oct 10 2017 17:46:36.433 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Tue Oct 10 2017 17:46:58.405 - Screenshot: Hook Screenshot called with types:Tue Oct 10 2017 17:46:58.405 -  5Tue Oct 10 2017 17:46:58.405 - 
+Tue Oct 10 2017 17:51:10.451 - VR_Shutdown called
+Fri Oct 13 2017 11:50:19.520 - //=====================================================================================================================
+Fri Oct 13 2017 11:50:19.522 - vrclient startup with PID=9664, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Fri Oct 13 2017 11:50:19.524 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Fri Oct 13 2017 11:50:19.524 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Fri Oct 13 2017 11:50:19.524 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Fri Oct 13 2017 11:50:19.524 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Fri Oct 13 2017 11:50:19.524 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Fri Oct 13 2017 11:50:19.525 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Oct 13 2017 11:50:19.540 - Received success response from vrserver connect
+Fri Oct 13 2017 11:50:19.549 - Received success response from vrcompositor connect
+Fri Oct 13 2017 11:50:19.572 - Capturing Scene Focus
+Fri Oct 13 2017 11:50:20.434 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:50:20.434 -  5Fri Oct 13 2017 11:50:20.434 - 
+Fri Oct 13 2017 11:50:20.514 - [Chaperone] Universe changed from 0 to 1477679345.
+Fri Oct 13 2017 11:50:22.972 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Fri Oct 13 2017 11:50:22.972 - Initializing CD3D11VRRenderer
+Fri Oct 13 2017 11:50:22.982 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Fri Oct 13 2017 11:50:22.982 - Initializing CD3D11VRRenderer
+Fri Oct 13 2017 11:50:22.996 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Fri Oct 13 2017 11:50:22.996 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Fri Oct 13 2017 11:50:22.996 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Fri Oct 13 2017 11:50:22.997 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Fri Oct 13 2017 11:50:22.997 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Fri Oct 13 2017 11:50:22.997 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Fri Oct 13 2017 11:50:23.142 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:50:23.142 -  5Fri Oct 13 2017 11:50:23.142 - 
+Fri Oct 13 2017 11:50:28.614 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Fri Oct 13 2017 11:50:28.614 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Fri Oct 13 2017 11:50:28.840 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Fri Oct 13 2017 11:50:28.841 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Fri Oct 13 2017 11:50:28.915 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Fri Oct 13 2017 11:50:28.915 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Fri Oct 13 2017 11:50:56.328 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:50:56.328 -  5Fri Oct 13 2017 11:50:56.328 - 
+Fri Oct 13 2017 11:52:00.795 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:52:00.795 -  5Fri Oct 13 2017 11:52:00.795 - 
+Fri Oct 13 2017 11:52:13.008 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:52:13.008 -  5Fri Oct 13 2017 11:52:13.008 - 
+Fri Oct 13 2017 11:52:38.615 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:52:38.615 -  5Fri Oct 13 2017 11:52:38.615 - 
+Fri Oct 13 2017 11:52:47.856 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:52:47.856 -  5Fri Oct 13 2017 11:52:47.856 - 
+Fri Oct 13 2017 11:54:23.780 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:54:23.780 -  5Fri Oct 13 2017 11:54:23.780 - 
+Fri Oct 13 2017 11:55:20.103 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:55:20.104 -  5Fri Oct 13 2017 11:55:20.104 - 
+Fri Oct 13 2017 11:55:36.380 - Screenshot: Hook Screenshot called with types:Fri Oct 13 2017 11:55:36.380 -  5Fri Oct 13 2017 11:55:36.380 - 
+Fri Oct 13 2017 12:04:41.647 - VR_Shutdown called
+Mon Oct 16 2017 19:08:42.387 - //=====================================================================================================================
+Mon Oct 16 2017 19:08:42.388 - vrclient startup with PID=13216, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Mon Oct 16 2017 19:08:42.393 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Mon Oct 16 2017 19:08:42.393 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Mon Oct 16 2017 19:08:42.393 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Mon Oct 16 2017 19:08:42.393 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Mon Oct 16 2017 19:08:42.393 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Mon Oct 16 2017 19:08:42.394 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Mon Oct 16 2017 19:08:42.396 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Mon Oct 16 2017 19:08:42.664 - Received connect response VRInitError_Init_HmdNotFound. Giving up.
+Mon Oct 16 2017 19:08:47.684 - Giving up waiting for vrserver to exit after 5000ms -- killing it
+Mon Oct 16 2017 19:08:47.692 - Started C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrmonitor.exe with pid 8956
+Wed Oct 18 2017 13:01:00.959 - //=====================================================================================================================
+Wed Oct 18 2017 13:01:00.960 - vrclient startup with PID=11912, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Wed Oct 18 2017 13:01:00.962 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:01:00.962 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:01:00.962 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:01:00.963 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:01:00.963 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:01:00.963 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Wed Oct 18 2017 13:01:00.965 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Wed Oct 18 2017 13:01:01.189 - Received connect response VRInitError_Init_HmdNotFound. Giving up.
+Wed Oct 18 2017 13:01:06.216 - Giving up waiting for vrserver to exit after 5000ms -- killing it
+Wed Oct 18 2017 13:01:06.221 - Started C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrmonitor.exe with pid 5308
+Wed Oct 18 2017 13:45:33.246 - //=====================================================================================================================
+Wed Oct 18 2017 13:45:33.247 - vrclient startup with PID=14972, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Wed Oct 18 2017 13:45:33.250 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:45:33.250 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:45:33.250 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:45:33.251 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:45:33.251 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Wed Oct 18 2017 13:45:33.251 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Wed Oct 18 2017 13:45:33.265 - Received success response from vrserver connect
+Wed Oct 18 2017 13:45:33.272 - Received success response from vrcompositor connect
+Wed Oct 18 2017 13:45:33.307 - Capturing Scene Focus
+Wed Oct 18 2017 13:45:34.751 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 13:45:34.751 -  5Wed Oct 18 2017 13:45:34.751 - 
+Wed Oct 18 2017 13:45:34.757 - [Chaperone] Universe changed from 0 to 1477679345.
+Wed Oct 18 2017 13:45:34.781 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Wed Oct 18 2017 13:45:34.782 - Initializing CD3D11VRRenderer
+Wed Oct 18 2017 13:45:34.792 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Wed Oct 18 2017 13:45:34.792 - Initializing CD3D11VRRenderer
+Wed Oct 18 2017 13:45:34.804 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 18 2017 13:45:34.804 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 18 2017 13:45:34.804 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 18 2017 13:45:34.805 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 18 2017 13:45:34.805 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 18 2017 13:45:34.805 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 18 2017 13:45:36.914 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 13:45:36.914 -  5Wed Oct 18 2017 13:45:36.914 - 
+Wed Oct 18 2017 13:45:41.896 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 18 2017 13:45:41.896 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 18 2017 13:45:42.101 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 18 2017 13:45:42.101 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 18 2017 13:45:42.710 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 18 2017 13:45:42.710 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 18 2017 13:46:21.856 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 13:46:21.856 -  5Wed Oct 18 2017 13:46:21.856 - 
+Wed Oct 18 2017 13:54:44.141 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 13:54:44.141 -  5Wed Oct 18 2017 13:54:44.141 - 
+Wed Oct 18 2017 14:04:22.532 - VR_Shutdown called
+Wed Oct 18 2017 19:07:07.397 - //=====================================================================================================================
+Wed Oct 18 2017 19:07:07.398 - vrclient startup with PID=13464, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Wed Oct 18 2017 19:07:07.400 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Wed Oct 18 2017 19:07:07.400 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Wed Oct 18 2017 19:07:07.400 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Wed Oct 18 2017 19:07:07.400 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Wed Oct 18 2017 19:07:07.401 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Wed Oct 18 2017 19:07:07.401 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Wed Oct 18 2017 19:07:07.403 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Wed Oct 18 2017 19:07:08.460 - Received success response from vrserver connect
+Wed Oct 18 2017 19:07:08.466 - Starting vrcompositor process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrcompositor.exe 
+Wed Oct 18 2017 19:07:10.448 - Received success response from vrcompositor connect
+Wed Oct 18 2017 19:07:10.522 - Started C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrdashboard.exe with pid 12524
+Wed Oct 18 2017 19:07:10.532 - Started C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrmonitor.exe with pid 12324
+Wed Oct 18 2017 19:07:10.543 - Capturing Scene Focus
+Wed Oct 18 2017 19:07:12.355 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 19:07:12.355 -  5Wed Oct 18 2017 19:07:12.355 - 
+Wed Oct 18 2017 19:07:14.506 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Wed Oct 18 2017 19:07:14.506 - Initializing CD3D11VRRenderer
+Wed Oct 18 2017 19:07:14.518 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Wed Oct 18 2017 19:07:14.518 - Initializing CD3D11VRRenderer
+Wed Oct 18 2017 19:07:14.531 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 18 2017 19:07:14.531 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 18 2017 19:07:14.532 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 18 2017 19:07:14.532 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 18 2017 19:07:14.533 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 18 2017 19:07:14.533 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 18 2017 19:07:14.699 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 19:07:14.699 -  5Wed Oct 18 2017 19:07:14.699 - 
+Wed Oct 18 2017 19:07:20.681 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 18 2017 19:07:20.681 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 18 2017 19:07:21.007 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 18 2017 19:07:21.007 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 18 2017 19:07:21.058 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 18 2017 19:07:21.058 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 18 2017 19:07:42.447 - [Chaperone] Universe changed from 0 to 1477679345.
+Wed Oct 18 2017 19:07:47.170 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 19:07:47.170 -  5Wed Oct 18 2017 19:07:47.170 - 
+Wed Oct 18 2017 19:08:02.439 - Screenshot: Hook Screenshot called with types:Wed Oct 18 2017 19:08:02.439 -  5Wed Oct 18 2017 19:08:02.439 - 
+Wed Oct 18 2017 19:08:35.979 - VR_Shutdown called
+Sat Oct 21 2017 15:43:17.666 - //=====================================================================================================================
+Sat Oct 21 2017 15:43:17.667 - vrclient startup with PID=8080, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Sat Oct 21 2017 15:43:17.669 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Sat Oct 21 2017 15:43:17.669 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Sat Oct 21 2017 15:43:17.669 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Sat Oct 21 2017 15:43:17.670 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Sat Oct 21 2017 15:43:17.670 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Sat Oct 21 2017 15:43:17.670 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Sat Oct 21 2017 15:43:17.685 - Received success response from vrserver connect
+Sat Oct 21 2017 15:43:17.690 - Received success response from vrcompositor connect
+Sat Oct 21 2017 15:43:17.704 - Capturing Scene Focus
+Sat Oct 21 2017 15:43:21.763 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:43:21.763 -  5Sat Oct 21 2017 15:43:21.763 - 
+Sat Oct 21 2017 15:43:21.784 - [Chaperone] Universe changed from 0 to 1477679345.
+Sat Oct 21 2017 15:43:22.794 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Sat Oct 21 2017 15:43:22.794 - Initializing CD3D11VRRenderer
+Sat Oct 21 2017 15:43:22.802 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Sat Oct 21 2017 15:43:22.802 - Initializing CD3D11VRRenderer
+Sat Oct 21 2017 15:43:22.813 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Sat Oct 21 2017 15:43:22.813 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Sat Oct 21 2017 15:43:22.813 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Sat Oct 21 2017 15:43:22.814 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Sat Oct 21 2017 15:43:22.814 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Sat Oct 21 2017 15:43:22.814 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Sat Oct 21 2017 15:43:22.920 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:43:22.920 -  5Sat Oct 21 2017 15:43:22.920 - 
+Sat Oct 21 2017 15:43:25.612 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Sat Oct 21 2017 15:43:25.612 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Sat Oct 21 2017 15:43:25.758 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Sat Oct 21 2017 15:43:25.759 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Sat Oct 21 2017 15:43:26.411 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Sat Oct 21 2017 15:43:26.411 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Sat Oct 21 2017 15:43:50.817 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:43:50.817 -  5Sat Oct 21 2017 15:43:50.817 - 
+Sat Oct 21 2017 15:44:14.094 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:44:14.094 -  5Sat Oct 21 2017 15:44:14.094 - 
+Sat Oct 21 2017 15:44:18.358 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:44:18.358 -  5Sat Oct 21 2017 15:44:18.359 - 
+Sat Oct 21 2017 15:44:39.658 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:44:39.658 -  5Sat Oct 21 2017 15:44:39.658 - 
+Sat Oct 21 2017 15:44:44.900 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:44:44.900 -  5Sat Oct 21 2017 15:44:44.900 - 
+Sat Oct 21 2017 15:45:32.212 - Screenshot: Hook Screenshot called with types:Sat Oct 21 2017 15:45:32.212 -  5Sat Oct 21 2017 15:45:32.212 - 
+Sat Oct 21 2017 15:45:37.841 - VR_Shutdown called
+Mon Oct 23 2017 12:43:07.493 - //=====================================================================================================================
+Mon Oct 23 2017 12:43:07.493 - vrclient startup with PID=6876, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Mon Oct 23 2017 12:43:07.496 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Mon Oct 23 2017 12:43:07.496 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Mon Oct 23 2017 12:43:07.496 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Mon Oct 23 2017 12:43:07.497 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Mon Oct 23 2017 12:43:07.497 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Mon Oct 23 2017 12:43:07.497 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Mon Oct 23 2017 12:43:07.505 - Received success response from vrserver connect
+Mon Oct 23 2017 12:43:07.517 - Received success response from vrcompositor connect
+Mon Oct 23 2017 12:43:07.529 - Capturing Scene Focus
+Mon Oct 23 2017 12:43:11.520 - Screenshot: Hook Screenshot called with types:Mon Oct 23 2017 12:43:11.520 -  5Mon Oct 23 2017 12:43:11.520 - 
+Mon Oct 23 2017 12:43:11.533 - [Chaperone] Universe changed from 0 to 1477679345.
+Mon Oct 23 2017 12:43:12.566 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Mon Oct 23 2017 12:43:12.566 - Initializing CD3D11VRRenderer
+Mon Oct 23 2017 12:43:12.574 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Mon Oct 23 2017 12:43:12.574 - Initializing CD3D11VRRenderer
+Mon Oct 23 2017 12:43:12.584 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Mon Oct 23 2017 12:43:12.584 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Mon Oct 23 2017 12:43:12.584 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Mon Oct 23 2017 12:43:12.585 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Mon Oct 23 2017 12:43:12.585 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Mon Oct 23 2017 12:43:12.585 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Mon Oct 23 2017 12:43:12.701 - Screenshot: Hook Screenshot called with types:Mon Oct 23 2017 12:43:12.701 -  5Mon Oct 23 2017 12:43:12.701 - 
+Mon Oct 23 2017 12:43:15.456 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Mon Oct 23 2017 12:43:15.456 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Mon Oct 23 2017 12:43:15.608 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Mon Oct 23 2017 12:43:15.608 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Mon Oct 23 2017 12:43:16.280 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Mon Oct 23 2017 12:43:16.280 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Mon Oct 23 2017 12:43:55.886 - VR_Shutdown called
+Wed Oct 25 2017 14:37:02.141 - //=====================================================================================================================
+Wed Oct 25 2017 14:37:02.141 - vrclient startup with PID=14236, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Wed Oct 25 2017 14:37:02.144 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Wed Oct 25 2017 14:37:02.144 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Wed Oct 25 2017 14:37:02.144 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Wed Oct 25 2017 14:37:02.145 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Wed Oct 25 2017 14:37:02.145 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Wed Oct 25 2017 14:37:02.145 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Wed Oct 25 2017 14:37:02.159 - Received success response from vrserver connect
+Wed Oct 25 2017 14:37:02.164 - Received success response from vrcompositor connect
+Wed Oct 25 2017 14:37:02.177 - Capturing Scene Focus
+Wed Oct 25 2017 14:37:03.630 - Screenshot: Hook Screenshot called with types:Wed Oct 25 2017 14:37:03.630 -  5Wed Oct 25 2017 14:37:03.630 - 
+Wed Oct 25 2017 14:37:03.644 - [Chaperone] Universe changed from 0 to 1477679345.
+Wed Oct 25 2017 14:37:04.663 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Wed Oct 25 2017 14:37:04.663 - Initializing CD3D11VRRenderer
+Wed Oct 25 2017 14:37:04.672 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Wed Oct 25 2017 14:37:04.672 - Initializing CD3D11VRRenderer
+Wed Oct 25 2017 14:37:04.684 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 25 2017 14:37:04.684 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 25 2017 14:37:04.685 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Wed Oct 25 2017 14:37:04.685 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 25 2017 14:37:04.686 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 25 2017 14:37:04.686 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Wed Oct 25 2017 14:37:04.801 - Screenshot: Hook Screenshot called with types:Wed Oct 25 2017 14:37:04.801 -  5Wed Oct 25 2017 14:37:04.801 - 
+Wed Oct 25 2017 14:37:07.556 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 25 2017 14:37:07.556 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 25 2017 14:37:07.710 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 25 2017 14:37:07.711 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 25 2017 14:37:08.376 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Wed Oct 25 2017 14:37:08.377 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Wed Oct 25 2017 14:37:49.651 - Screenshot: Hook Screenshot called with types:Wed Oct 25 2017 14:37:49.651 -  5Wed Oct 25 2017 14:37:49.651 - 
+Wed Oct 25 2017 14:39:37.317 - Screenshot: Hook Screenshot called with types:Wed Oct 25 2017 14:39:37.317 -  5Wed Oct 25 2017 14:39:37.317 - 
+Wed Oct 25 2017 14:39:49.583 - Screenshot: Hook Screenshot called with types:Wed Oct 25 2017 14:39:49.583 -  5Wed Oct 25 2017 14:39:49.583 - 
+Wed Oct 25 2017 14:41:05.116 - VR_Shutdown called
+Thu Nov 23 2017 10:15:14.257 - //=====================================================================================================================
+Thu Nov 23 2017 10:15:14.257 - vrclient startup with PID=20244, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Thu Nov 23 2017 10:15:14.260 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Thu Nov 23 2017 10:15:14.260 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Thu Nov 23 2017 10:15:14.260 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Thu Nov 23 2017 10:15:14.260 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Thu Nov 23 2017 10:15:14.260 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Thu Nov 23 2017 10:15:14.261 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Thu Nov 23 2017 10:15:14.270 - Received success response from vrserver connect
+Thu Nov 23 2017 10:15:14.281 - Received success response from vrcompositor connect
+Thu Nov 23 2017 10:15:14.295 - Capturing Scene Focus
+Thu Nov 23 2017 10:15:18.319 - Screenshot: Hook Screenshot called with types:Thu Nov 23 2017 10:15:18.319 -  5Thu Nov 23 2017 10:15:18.319 - 
+Thu Nov 23 2017 10:15:18.341 - [Chaperone] Universe changed from 0 to 1477679345.
+Thu Nov 23 2017 10:15:19.367 - Found Windows 10 or newer, so enable advanced image processing of scene textures.
+Thu Nov 23 2017 10:15:19.367 - Initializing CD3D11VRRenderer
+Thu Nov 23 2017 10:15:19.375 - Setting max texture dimensions to 2421x2690 before requiring downsampling
+Thu Nov 23 2017 10:15:19.375 - Initializing CD3D11VRRenderer
+Thu Nov 23 2017 10:15:19.386 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Thu Nov 23 2017 10:15:19.386 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Thu Nov 23 2017 10:15:19.386 - Created shared texture 'Scene create D3D11, 0' 1512x1680 (1 mips)
+Thu Nov 23 2017 10:15:19.387 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Thu Nov 23 2017 10:15:19.387 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Thu Nov 23 2017 10:15:19.388 - Created shared texture 'Scene create D3D11, 1' 1512x1680 (1 mips)
+Thu Nov 23 2017 10:15:19.558 - Screenshot: Hook Screenshot called with types:Thu Nov 23 2017 10:15:19.558 -  5Thu Nov 23 2017 10:15:19.558 - 
+Thu Nov 23 2017 10:15:22.909 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Thu Nov 23 2017 10:15:22.909 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Thu Nov 23 2017 10:15:23.073 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Thu Nov 23 2017 10:15:23.074 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Thu Nov 23 2017 10:15:23.088 - Created shared texture 'Scene resize D3D11, 0' 2268x2520 (1 mips)
+Thu Nov 23 2017 10:15:23.088 - Created shared texture 'Scene resize D3D11, 1' 2268x2520 (1 mips)
+Thu Nov 23 2017 10:15:37.675 - Screenshot: Hook Screenshot called with types:Thu Nov 23 2017 10:15:37.675 -  5Thu Nov 23 2017 10:15:37.675 - 
+Thu Nov 23 2017 10:16:32.000 - Screenshot: Hook Screenshot called with types:Thu Nov 23 2017 10:16:32.000 -  5Thu Nov 23 2017 10:16:32.000 - 
+Thu Nov 23 2017 10:16:39.427 - VR_Shutdown called
+Tue Dec 12 2017 14:29:57.963 - //=====================================================================================================================
+Tue Dec 12 2017 14:29:57.963 - vrclient startup with PID=2756, type=VRApplication_Scene, config=C:\Program Files (x86)\Steam\config
+Tue Dec 12 2017 14:29:57.969 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Tue Dec 12 2017 14:29:57.969 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\00vrinputemulator\resources\settings\default.vrsettings
+Tue Dec 12 2017 14:29:57.969 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings
+Tue Dec 12 2017 14:29:57.969 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Tue Dec 12 2017 14:29:57.970 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Tue Dec 12 2017 14:29:57.970 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Tue Dec 12 2017 14:29:57.974 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Tue Dec 12 2017 14:29:58.394 - Received connect response VRInitError_Init_HmdNotFound. Giving up.
+Tue Dec 12 2017 14:30:03.438 - Giving up waiting for vrserver to exit after 5000ms -- killing it
+Tue Dec 12 2017 14:30:03.448 - Started C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrmonitor.exe with pid 6680
