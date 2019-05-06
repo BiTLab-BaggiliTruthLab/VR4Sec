@@ -1,0 +1,5 @@
+﻿  client.cpp
+c:\users\unhcfreg\desktop\discovery\udpstream\client.cpp(58): error C2065: 'pose_ip': undeclared identifier
+c:\users\unhcfreg\desktop\discovery\udpstream\client.cpp(66): error C2065: 'chap_ip': undeclared identifier
+  camera.cpp
+  Generating Code...
